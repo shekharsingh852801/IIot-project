@@ -1,0 +1,2521 @@
+learner_id,learner_group,module,activity_minutes,sessions,quiz_score,completed
+L0001,Self-paced,Getting Started,19.3,9.0,66.3,False
+L0001,Self-paced,Core Concepts,77.1,3.0,68.1,True
+L0001,Self-paced,Data Skills,22.3,3.0,71.6,False
+L0001,Self-paced,Applied Practice,23.5,,59.5,True
+L0001,Self-paced,Knowledge Check,64.9,3.0,65.8,True
+L0001,Self-paced,Capstone,33.2,2.0,64.9,True
+L0002,Instructor-led,Getting Started,57.3,1.0,61.4,True
+L0002,Instructor-led,Core Concepts,32.2,3.0,72.4,True
+L0002,Instructor-led,Data Skills,52.3,1.0,80.8,True
+L0002,Instructor-led,Applied Practice,,4.0,67.6,True
+L0002,Instructor-led,Knowledge Check,20.0,6.0,59.9,True
+L0002,Instructor-led,Capstone,32.3,2.0,75.5,True
+L0003,Self-paced,Getting Started,62.4,1.0,52.3,True
+L0003,Self-paced,Core Concepts,19.9,4.0,56.6,True
+L0003,Self-paced,Data Skills,,1.0,56.0,True
+L0003,Self-paced,Applied Practice,30.4,7.0,42.8,False
+L0003,Self-paced,Knowledge Check,31.5,1.0,63.1,True
+L0003,Self-paced,Capstone,39.1,2.0,50.1,True
+L0004,Self-paced,Getting Started,,3.0,74.3,True
+L0004,Self-paced,Core Concepts,24.0,1.0,68.4,True
+L0004,Self-paced,Data Skills,,1.0,86.1,True
+L0004,Self-paced,Applied Practice,17.1,4.0,,True
+L0004,Self-paced,Knowledge Check,43.5,2.0,,True
+L0004,Self-paced,Capstone,29.7,1.0,82.1,True
+L0005,Self-paced,Getting Started,28.8,5.0,74.9,True
+L0005,Self-paced,Core Concepts,28.5,2.0,62.2,False
+L0005,Self-paced,Data Skills,24.4,1.0,60.5,True
+L0005,Self-paced,Applied Practice,53.4,2.0,84.0,True
+L0005,Self-paced,Knowledge Check,,1.0,55.0,True
+L0005,Self-paced,Capstone,20.6,3.0,57.8,True
+L0006,Instructor-led,Getting Started,28.6,1.0,68.4,True
+L0006,Instructor-led,Core Concepts,44.0,2.0,62.3,True
+L0006,Instructor-led,Data Skills,25.2,1.0,61.7,True
+L0006,Instructor-led,Applied Practice,31.7,1.0,51.5,False
+L0006,Instructor-led,Knowledge Check,27.0,4.0,65.1,False
+L0006,Instructor-led,Capstone,17.1,1.0,76.6,True
+L0007,Returning learners,Getting Started,20.8,1.0,64.5,True
+L0007,Returning learners,Core Concepts,44.4,1.0,66.9,True
+L0007,Returning learners,Data Skills,24.8,2.0,79.9,False
+L0007,Returning learners,Applied Practice,44.2,3.0,64.1,True
+L0007,Returning learners,Knowledge Check,70.1,1.0,56.7,True
+L0007,Returning learners,Capstone,35.2,2.0,57.2,True
+L0008,Instructor-led,Getting Started,39.1,2.0,64.7,True
+L0008,Instructor-led,Core Concepts,47.5,3.0,69.1,True
+L0008,Instructor-led,Data Skills,23.3,2.0,84.6,True
+L0008,Instructor-led,Applied Practice,38.3,4.0,84.8,True
+L0008,Instructor-led,Knowledge Check,30.3,2.0,69.0,True
+L0008,Instructor-led,Capstone,51.8,3.0,51.7,True
+L0009,Self-paced,Getting Started,24.7,1.0,61.2,True
+L0009,Self-paced,Core Concepts,30.7,4.0,72.8,True
+L0009,Self-paced,Data Skills,,,59.2,False
+L0009,Self-paced,Applied Practice,17.9,1.0,65.3,False
+L0009,Self-paced,Knowledge Check,81.8,1.0,,True
+L0009,Self-paced,Capstone,28.2,3.0,70.4,True
+L0010,Self-paced,Getting Started,38.1,4.0,75.7,True
+L0010,Self-paced,Core Concepts,41.9,3.0,48.4,True
+L0010,Self-paced,Data Skills,35.5,4.0,57.9,True
+L0010,Self-paced,Applied Practice,36.1,3.0,56.0,True
+L0010,Self-paced,Knowledge Check,44.0,2.0,,True
+L0010,Self-paced,Capstone,50.9,4.0,62.5,True
+L0011,Self-paced,Getting Started,37.1,2.0,63.7,True
+L0011,Self-paced,Core Concepts,,3.0,58.9,True
+L0011,Self-paced,Data Skills,18.5,1.0,62.9,True
+L0011,Self-paced,Applied Practice,25.9,1.0,63.9,True
+L0011,Self-paced,Knowledge Check,34.5,4.0,68.9,True
+L0011,Self-paced,Capstone,,2.0,70.3,True
+L0012,Self-paced,Getting Started,30.8,1.0,71.1,True
+L0012,Self-paced,Core Concepts,57.8,3.0,71.5,True
+L0012,Self-paced,Data Skills,28.5,2.0,61.2,True
+L0012,Self-paced,Applied Practice,63.4,3.0,76.0,True
+L0012,Self-paced,Knowledge Check,65.0,2.0,84.4,False
+L0012,Self-paced,Capstone,23.1,1.0,61.6,True
+L0013,Instructor-led,Getting Started,33.0,2.0,63.7,False
+L0013,Instructor-led,Core Concepts,48.9,2.0,74.0,False
+L0013,Instructor-led,Data Skills,35.7,1.0,75.1,True
+L0013,Instructor-led,Applied Practice,11.2,2.0,56.0,False
+L0013,Instructor-led,Knowledge Check,27.0,5.0,62.9,True
+L0013,Instructor-led,Capstone,31.8,,,False
+L0014,Instructor-led,Getting Started,22.4,2.0,77.7,True
+L0014,Instructor-led,Core Concepts,,3.0,62.8,True
+L0014,Instructor-led,Data Skills,46.9,3.0,78.4,True
+L0014,Instructor-led,Applied Practice,38.6,3.0,74.5,False
+L0014,Instructor-led,Knowledge Check,50.7,2.0,66.3,True
+L0014,Instructor-led,Capstone,,4.0,58.7,True
+L0015,Self-paced,Getting Started,75.4,3.0,75.3,True
+L0015,Self-paced,Core Concepts,,2.0,77.8,True
+L0015,Self-paced,Data Skills,49.9,6.0,71.4,True
+L0015,Self-paced,Applied Practice,24.1,2.0,80.7,False
+L0015,Self-paced,Knowledge Check,38.4,4.0,67.4,True
+L0015,Self-paced,Capstone,48.1,5.0,56.2,True
+L0016,Instructor-led,Getting Started,47.9,5.0,66.3,True
+L0016,Instructor-led,Core Concepts,49.6,1.0,47.8,True
+L0016,Instructor-led,Data Skills,26.3,4.0,51.5,True
+L0016,Instructor-led,Applied Practice,34.2,,65.3,False
+L0016,Instructor-led,Knowledge Check,33.0,1.0,71.2,True
+L0016,Instructor-led,Capstone,58.4,4.0,63.4,True
+L0017,Self-paced,Getting Started,35.7,1.0,76.5,True
+L0017,Self-paced,Core Concepts,21.5,3.0,75.9,True
+L0017,Self-paced,Data Skills,46.2,1.0,70.5,False
+L0017,Self-paced,Applied Practice,18.2,5.0,64.9,True
+L0017,Self-paced,Knowledge Check,34.8,1.0,60.2,True
+L0017,Self-paced,Capstone,83.9,4.0,,True
+L0018,Returning learners,Getting Started,52.4,5.0,73.0,True
+L0018,Returning learners,Core Concepts,22.0,3.0,59.7,True
+L0018,Returning learners,Data Skills,51.7,2.0,64.9,True
+L0018,Returning learners,Applied Practice,37.3,2.0,77.0,True
+L0018,Returning learners,Knowledge Check,56.4,3.0,74.4,True
+L0018,Returning learners,Capstone,,1.0,62.2,True
+L0019,Instructor-led,Getting Started,56.5,4.0,94.6,True
+L0019,Instructor-led,Core Concepts,31.1,3.0,,True
+L0019,Instructor-led,Data Skills,28.5,6.0,67.5,False
+L0019,Instructor-led,Applied Practice,27.2,1.0,65.6,True
+L0019,Instructor-led,Knowledge Check,18.9,2.0,64.5,False
+L0019,Instructor-led,Capstone,23.4,3.0,70.1,True
+L0020,Instructor-led,Getting Started,15.5,2.0,55.6,True
+L0020,Instructor-led,Core Concepts,42.5,2.0,54.7,True
+L0020,Instructor-led,Data Skills,32.6,2.0,57.9,True
+L0020,Instructor-led,Applied Practice,22.5,1.0,53.7,True
+L0020,Instructor-led,Knowledge Check,13.9,1.0,71.9,True
+L0020,Instructor-led,Capstone,18.2,3.0,50.6,True
+L0021,Returning learners,Getting Started,35.2,2.0,66.5,True
+L0021,Returning learners,Core Concepts,46.1,2.0,70.2,True
+L0021,Returning learners,Data Skills,85.4,3.0,66.3,True
+L0021,Returning learners,Applied Practice,118.7,6.0,76.3,True
+L0021,Returning learners,Knowledge Check,54.0,1.0,68.7,True
+L0021,Returning learners,Capstone,94.7,5.0,75.5,True
+L0022,Instructor-led,Getting Started,46.4,2.0,94.3,True
+L0022,Instructor-led,Core Concepts,55.1,1.0,64.1,True
+L0022,Instructor-led,Data Skills,22.3,4.0,72.6,True
+L0022,Instructor-led,Applied Practice,16.8,4.0,86.0,True
+L0022,Instructor-led,Knowledge Check,13.6,1.0,61.7,True
+L0022,Instructor-led,Capstone,25.8,2.0,61.2,True
+L0023,Instructor-led,Getting Started,49.7,2.0,53.6,False
+L0023,Instructor-led,Core Concepts,73.5,1.0,75.8,True
+L0023,Instructor-led,Data Skills,17.9,1.0,64.7,False
+L0023,Instructor-led,Applied Practice,45.2,1.0,54.1,False
+L0023,Instructor-led,Knowledge Check,40.2,2.0,66.8,True
+L0023,Instructor-led,Capstone,28.5,3.0,,True
+L0024,Instructor-led,Getting Started,17.2,2.0,81.2,True
+L0024,Instructor-led,Core Concepts,30.5,2.0,62.6,True
+L0024,Instructor-led,Data Skills,20.6,3.0,84.9,True
+L0024,Instructor-led,Applied Practice,38.2,2.0,73.4,True
+L0024,Instructor-led,Knowledge Check,20.1,3.0,55.8,True
+L0024,Instructor-led,Capstone,21.3,2.0,49.5,True
+L0025,Instructor-led,Getting Started,25.4,2.0,79.1,False
+L0025,Instructor-led,Core Concepts,14.9,1.0,74.6,True
+L0025,Instructor-led,Data Skills,,1.0,84.0,True
+L0025,Instructor-led,Applied Practice,23.9,2.0,53.2,True
+L0025,Instructor-led,Knowledge Check,30.7,2.0,66.5,True
+L0025,Instructor-led,Capstone,43.1,2.0,70.6,False
+L0026,Returning learners,Getting Started,47.7,3.0,91.4,True
+L0026,Returning learners,Core Concepts,23.2,2.0,67.8,False
+L0026,Returning learners,Data Skills,36.0,2.0,,True
+L0026,Returning learners,Applied Practice,32.8,1.0,100.0,True
+L0026,Returning learners,Knowledge Check,42.4,3.0,,True
+L0026,Returning learners,Capstone,54.0,3.0,76.3,True
+L0027,Self-paced,Getting Started,26.4,5.0,76.0,True
+L0027,Self-paced,Core Concepts,47.6,2.0,77.3,True
+L0027,Self-paced,Data Skills,18.0,2.0,59.0,False
+L0027,Self-paced,Applied Practice,30.1,1.0,79.1,True
+L0027,Self-paced,Knowledge Check,25.3,2.0,72.5,True
+L0027,Self-paced,Capstone,15.8,3.0,75.4,True
+L0028,Self-paced,Getting Started,17.1,2.0,96.0,True
+L0028,Self-paced,Core Concepts,34.6,4.0,70.0,True
+L0028,Self-paced,Data Skills,23.5,2.0,48.2,False
+L0028,Self-paced,Applied Practice,33.9,1.0,74.9,True
+L0028,Self-paced,Knowledge Check,8.1,3.0,81.5,True
+L0028,Self-paced,Capstone,48.5,3.0,87.2,False
+L0029,Self-paced,Getting Started,51.7,1.0,74.1,True
+L0029,Self-paced,Core Concepts,48.2,,65.4,True
+L0029,Self-paced,Data Skills,43.0,2.0,51.9,False
+L0029,Self-paced,Applied Practice,57.0,2.0,42.0,False
+L0029,Self-paced,Knowledge Check,31.2,1.0,65.2,True
+L0029,Self-paced,Capstone,105.4,3.0,73.1,True
+L0030,Returning learners,Getting Started,41.8,1.0,84.4,True
+L0030,Returning learners,Core Concepts,33.7,3.0,72.1,True
+L0030,Returning learners,Data Skills,12.6,7.0,78.7,True
+L0030,Returning learners,Applied Practice,36.7,3.0,86.1,True
+L0030,Returning learners,Knowledge Check,,1.0,56.1,True
+L0030,Returning learners,Capstone,47.2,4.0,55.5,True
+L0031,Self-paced,Getting Started,23.1,1.0,,True
+L0031,Self-paced,Core Concepts,39.4,1.0,70.0,True
+L0031,Self-paced,Data Skills,25.9,3.0,41.1,False
+L0031,Self-paced,Applied Practice,,2.0,48.4,False
+L0031,Self-paced,Knowledge Check,,3.0,51.0,True
+L0031,Self-paced,Capstone,29.8,4.0,70.4,True
+L0032,Returning learners,Getting Started,37.3,1.0,98.5,True
+L0032,Returning learners,Core Concepts,19.7,1.0,78.3,True
+L0032,Returning learners,Data Skills,11.5,1.0,63.4,True
+L0032,Returning learners,Applied Practice,31.5,2.0,,True
+L0032,Returning learners,Knowledge Check,36.8,2.0,66.7,True
+L0032,Returning learners,Capstone,30.5,2.0,61.8,False
+L0033,Self-paced,Getting Started,22.6,5.0,,False
+L0033,Self-paced,Core Concepts,27.9,2.0,87.0,True
+L0033,Self-paced,Data Skills,42.9,1.0,63.7,True
+L0033,Self-paced,Applied Practice,33.9,4.0,72.7,True
+L0033,Self-paced,Knowledge Check,23.7,1.0,57.9,False
+L0033,Self-paced,Capstone,33.5,3.0,67.4,True
+L0034,Returning learners,Getting Started,53.7,2.0,65.4,True
+L0034,Returning learners,Core Concepts,41.6,2.0,80.4,True
+L0034,Returning learners,Data Skills,24.6,3.0,79.3,True
+L0034,Returning learners,Applied Practice,37.9,1.0,76.8,True
+L0034,Returning learners,Knowledge Check,52.6,1.0,72.2,True
+L0034,Returning learners,Capstone,41.3,1.0,80.6,True
+L0035,Self-paced,Getting Started,,2.0,53.6,True
+L0035,Self-paced,Core Concepts,17.6,3.0,,False
+L0035,Self-paced,Data Skills,49.7,1.0,,True
+L0035,Self-paced,Applied Practice,22.4,2.0,60.7,True
+L0035,Self-paced,Knowledge Check,,3.0,54.1,True
+L0035,Self-paced,Capstone,29.4,5.0,59.3,True
+L0036,Self-paced,Getting Started,17.5,2.0,89.5,True
+L0036,Self-paced,Core Concepts,62.8,1.0,80.4,True
+L0036,Self-paced,Data Skills,,3.0,83.1,True
+L0036,Self-paced,Applied Practice,34.1,3.0,69.8,True
+L0036,Self-paced,Knowledge Check,26.9,2.0,74.0,True
+L0036,Self-paced,Capstone,45.5,1.0,77.0,True
+L0037,Instructor-led,Getting Started,15.5,2.0,86.4,True
+L0037,Instructor-led,Core Concepts,24.4,3.0,79.4,True
+L0037,Instructor-led,Data Skills,62.9,4.0,60.2,True
+L0037,Instructor-led,Applied Practice,25.4,1.0,68.7,True
+L0037,Instructor-led,Knowledge Check,,2.0,58.5,True
+L0037,Instructor-led,Capstone,80.9,2.0,55.0,True
+L0038,Self-paced,Getting Started,35.0,1.0,67.8,False
+L0038,Self-paced,Core Concepts,38.1,3.0,70.9,True
+L0038,Self-paced,Data Skills,16.2,2.0,82.0,True
+L0038,Self-paced,Applied Practice,39.9,1.0,79.9,False
+L0038,Self-paced,Knowledge Check,25.9,,63.3,True
+L0038,Self-paced,Capstone,24.1,1.0,64.2,True
+L0039,Self-paced,Getting Started,,1.0,72.7,True
+L0039,Self-paced,Core Concepts,33.0,2.0,,True
+L0039,Self-paced,Data Skills,19.3,1.0,77.3,True
+L0039,Self-paced,Applied Practice,45.8,2.0,86.2,False
+L0039,Self-paced,Knowledge Check,97.9,4.0,74.4,True
+L0039,Self-paced,Capstone,32.2,4.0,74.6,True
+L0040,Self-paced,Getting Started,56.6,3.0,80.8,True
+L0040,Self-paced,Core Concepts,17.5,3.0,71.1,True
+L0040,Self-paced,Data Skills,26.7,3.0,67.2,False
+L0040,Self-paced,Applied Practice,36.7,1.0,76.0,True
+L0040,Self-paced,Knowledge Check,22.1,1.0,70.0,True
+L0040,Self-paced,Capstone,36.9,4.0,64.7,False
+L0041,Self-paced,Getting Started,44.7,2.0,70.3,True
+L0041,Self-paced,Core Concepts,76.3,4.0,66.0,True
+L0041,Self-paced,Data Skills,78.0,5.0,85.8,True
+L0041,Self-paced,Applied Practice,41.7,3.0,60.2,True
+L0041,Self-paced,Knowledge Check,31.5,3.0,61.5,True
+L0041,Self-paced,Capstone,45.5,4.0,73.7,False
+L0042,Returning learners,Getting Started,48.9,1.0,64.2,True
+L0042,Returning learners,Core Concepts,51.8,1.0,53.5,True
+L0042,Returning learners,Data Skills,31.6,2.0,70.3,True
+L0042,Returning learners,Applied Practice,25.1,1.0,,False
+L0042,Returning learners,Knowledge Check,27.6,2.0,65.6,True
+L0042,Returning learners,Capstone,36.9,3.0,73.0,False
+L0043,Instructor-led,Getting Started,19.6,1.0,49.7,True
+L0043,Instructor-led,Core Concepts,11.9,1.0,59.2,True
+L0043,Instructor-led,Data Skills,13.7,4.0,60.7,True
+L0043,Instructor-led,Applied Practice,44.1,6.0,54.3,True
+L0043,Instructor-led,Knowledge Check,43.1,3.0,69.8,True
+L0043,Instructor-led,Capstone,41.7,5.0,47.0,True
+L0044,Instructor-led,Getting Started,18.6,3.0,67.0,True
+L0044,Instructor-led,Core Concepts,21.1,3.0,73.3,True
+L0044,Instructor-led,Data Skills,26.0,5.0,73.4,False
+L0044,Instructor-led,Applied Practice,22.2,2.0,78.8,True
+L0044,Instructor-led,Knowledge Check,43.7,5.0,92.4,True
+L0044,Instructor-led,Capstone,49.2,1.0,76.0,True
+L0045,Self-paced,Getting Started,65.6,2.0,77.3,True
+L0045,Self-paced,Core Concepts,28.7,1.0,79.9,True
+L0045,Self-paced,Data Skills,20.1,4.0,76.2,False
+L0045,Self-paced,Applied Practice,28.3,3.0,72.1,True
+L0045,Self-paced,Knowledge Check,65.9,4.0,45.6,True
+L0045,Self-paced,Capstone,26.0,1.0,60.3,True
+L0046,Self-paced,Getting Started,,1.0,87.4,False
+L0046,Self-paced,Core Concepts,57.6,4.0,76.8,True
+L0046,Self-paced,Data Skills,57.6,,78.1,True
+L0046,Self-paced,Applied Practice,87.4,2.0,67.5,True
+L0046,Self-paced,Knowledge Check,125.8,6.0,75.0,True
+L0046,Self-paced,Capstone,44.3,2.0,69.8,False
+L0047,Returning learners,Getting Started,28.7,1.0,83.8,True
+L0047,Returning learners,Core Concepts,66.7,2.0,97.8,True
+L0047,Returning learners,Data Skills,,1.0,87.5,True
+L0047,Returning learners,Applied Practice,,3.0,95.5,True
+L0047,Returning learners,Knowledge Check,60.3,5.0,,True
+L0047,Returning learners,Capstone,55.3,5.0,90.4,True
+L0048,Returning learners,Getting Started,38.6,1.0,68.2,True
+L0048,Returning learners,Core Concepts,34.8,1.0,64.5,True
+L0048,Returning learners,Data Skills,19.7,2.0,46.9,True
+L0048,Returning learners,Applied Practice,11.8,1.0,73.0,True
+L0048,Returning learners,Knowledge Check,46.5,1.0,,True
+L0048,Returning learners,Capstone,77.7,3.0,73.4,True
+L0049,Instructor-led,Getting Started,15.5,2.0,98.3,True
+L0049,Instructor-led,Core Concepts,130.8,3.0,86.4,True
+L0049,Instructor-led,Data Skills,69.9,1.0,79.1,True
+L0049,Instructor-led,Applied Practice,22.5,2.0,85.2,True
+L0049,Instructor-led,Knowledge Check,16.3,1.0,78.9,True
+L0049,Instructor-led,Capstone,44.4,7.0,77.2,False
+L0050,Instructor-led,Getting Started,60.8,1.0,90.4,False
+L0050,Instructor-led,Core Concepts,27.0,5.0,83.6,True
+L0050,Instructor-led,Data Skills,36.7,5.0,99.5,True
+L0050,Instructor-led,Applied Practice,45.0,2.0,81.2,True
+L0050,Instructor-led,Knowledge Check,22.9,1.0,64.0,True
+L0050,Instructor-led,Capstone,11.7,1.0,81.7,False
+L0051,Self-paced,Getting Started,66.2,2.0,88.1,True
+L0051,Self-paced,Core Concepts,61.5,2.0,,False
+L0051,Self-paced,Data Skills,46.2,2.0,94.0,True
+L0051,Self-paced,Applied Practice,24.6,6.0,67.1,True
+L0051,Self-paced,Knowledge Check,43.7,3.0,85.1,True
+L0051,Self-paced,Capstone,41.5,,76.8,True
+L0052,Self-paced,Getting Started,24.8,4.0,66.7,True
+L0052,Self-paced,Core Concepts,34.1,5.0,74.6,True
+L0052,Self-paced,Data Skills,65.3,1.0,76.3,True
+L0052,Self-paced,Applied Practice,,3.0,87.4,True
+L0052,Self-paced,Knowledge Check,49.5,3.0,83.3,False
+L0052,Self-paced,Capstone,46.1,,80.9,True
+L0053,Instructor-led,Getting Started,16.4,6.0,53.4,True
+L0053,Instructor-led,Core Concepts,71.9,2.0,55.4,True
+L0053,Instructor-led,Data Skills,30.2,4.0,62.6,True
+L0053,Instructor-led,Applied Practice,30.7,1.0,64.2,True
+L0053,Instructor-led,Knowledge Check,32.1,5.0,68.4,True
+L0053,Instructor-led,Capstone,26.1,1.0,39.4,True
+L0054,Self-paced,Getting Started,43.5,3.0,70.1,True
+L0054,Self-paced,Core Concepts,31.1,3.0,60.3,False
+L0054,Self-paced,Data Skills,37.6,2.0,84.1,True
+L0054,Self-paced,Applied Practice,71.6,1.0,75.5,True
+L0054,Self-paced,Knowledge Check,67.6,5.0,84.3,True
+L0054,Self-paced,Capstone,29.8,,72.9,True
+L0055,Self-paced,Getting Started,70.8,1.0,81.7,True
+L0055,Self-paced,Core Concepts,20.9,4.0,43.0,True
+L0055,Self-paced,Data Skills,42.6,4.0,48.3,True
+L0055,Self-paced,Applied Practice,67.9,1.0,51.8,True
+L0055,Self-paced,Knowledge Check,22.2,5.0,76.0,True
+L0055,Self-paced,Capstone,48.2,8.0,69.8,True
+L0056,Instructor-led,Getting Started,13.9,,68.2,True
+L0056,Instructor-led,Core Concepts,35.4,3.0,68.3,True
+L0056,Instructor-led,Data Skills,31.0,1.0,72.5,True
+L0056,Instructor-led,Applied Practice,38.2,3.0,60.1,False
+L0056,Instructor-led,Knowledge Check,51.9,6.0,74.1,True
+L0056,Instructor-led,Capstone,29.1,4.0,75.1,True
+L0057,Self-paced,Getting Started,29.5,2.0,64.7,True
+L0057,Self-paced,Core Concepts,27.6,2.0,57.1,True
+L0057,Self-paced,Data Skills,51.0,3.0,58.3,True
+L0057,Self-paced,Applied Practice,31.3,3.0,41.4,True
+L0057,Self-paced,Knowledge Check,35.6,2.0,,True
+L0057,Self-paced,Capstone,72.9,8.0,56.0,True
+L0058,Returning learners,Getting Started,25.4,1.0,64.5,True
+L0058,Returning learners,Core Concepts,40.2,,63.2,True
+L0058,Returning learners,Data Skills,32.3,1.0,87.9,True
+L0058,Returning learners,Applied Practice,45.7,,66.2,False
+L0058,Returning learners,Knowledge Check,50.8,3.0,83.5,True
+L0058,Returning learners,Capstone,36.1,1.0,47.3,False
+L0059,Self-paced,Getting Started,45.6,2.0,74.1,True
+L0059,Self-paced,Core Concepts,42.4,4.0,81.3,True
+L0059,Self-paced,Data Skills,69.1,1.0,85.1,True
+L0059,Self-paced,Applied Practice,24.4,1.0,72.0,True
+L0059,Self-paced,Knowledge Check,50.2,3.0,63.4,False
+L0059,Self-paced,Capstone,61.0,1.0,85.5,True
+L0060,Instructor-led,Getting Started,17.8,1.0,76.8,True
+L0060,Instructor-led,Core Concepts,34.9,2.0,67.8,False
+L0060,Instructor-led,Data Skills,,2.0,69.0,True
+L0060,Instructor-led,Applied Practice,52.3,5.0,58.2,False
+L0060,Instructor-led,Knowledge Check,51.2,1.0,68.2,True
+L0060,Instructor-led,Capstone,50.3,,86.6,True
+L0061,Self-paced,Getting Started,21.4,2.0,78.5,True
+L0061,Self-paced,Core Concepts,20.8,,63.9,True
+L0061,Self-paced,Data Skills,23.3,1.0,57.2,True
+L0061,Self-paced,Applied Practice,23.2,1.0,60.3,False
+L0061,Self-paced,Knowledge Check,15.5,4.0,67.8,True
+L0061,Self-paced,Capstone,46.6,1.0,29.6,True
+L0062,Instructor-led,Getting Started,64.9,1.0,77.5,True
+L0062,Instructor-led,Core Concepts,24.7,2.0,72.8,False
+L0062,Instructor-led,Data Skills,41.6,2.0,57.2,True
+L0062,Instructor-led,Applied Practice,26.4,3.0,50.8,True
+L0062,Instructor-led,Knowledge Check,51.3,1.0,53.4,True
+L0062,Instructor-led,Capstone,45.4,3.0,46.5,True
+L0063,Self-paced,Getting Started,23.4,1.0,74.2,True
+L0063,Self-paced,Core Concepts,23.4,2.0,,False
+L0063,Self-paced,Data Skills,58.5,2.0,60.8,False
+L0063,Self-paced,Applied Practice,44.5,5.0,57.2,True
+L0063,Self-paced,Knowledge Check,57.3,3.0,,True
+L0063,Self-paced,Capstone,32.8,1.0,44.8,False
+L0064,Self-paced,Getting Started,28.7,1.0,52.5,True
+L0064,Self-paced,Core Concepts,23.1,1.0,45.2,False
+L0064,Self-paced,Data Skills,23.7,3.0,65.6,True
+L0064,Self-paced,Applied Practice,27.1,4.0,58.8,True
+L0064,Self-paced,Knowledge Check,36.2,3.0,62.6,False
+L0064,Self-paced,Capstone,41.7,3.0,69.0,True
+L0065,Instructor-led,Getting Started,18.6,1.0,70.0,True
+L0065,Instructor-led,Core Concepts,18.1,5.0,67.3,True
+L0065,Instructor-led,Data Skills,27.3,3.0,45.5,True
+L0065,Instructor-led,Applied Practice,49.9,1.0,54.7,False
+L0065,Instructor-led,Knowledge Check,42.0,5.0,51.8,True
+L0065,Instructor-led,Capstone,28.8,2.0,50.5,True
+L0066,Returning learners,Getting Started,114.0,4.0,93.5,True
+L0066,Returning learners,Core Concepts,27.7,2.0,76.8,True
+L0066,Returning learners,Data Skills,60.4,1.0,,True
+L0066,Returning learners,Applied Practice,38.6,3.0,84.0,True
+L0066,Returning learners,Knowledge Check,19.7,1.0,73.3,True
+L0066,Returning learners,Capstone,21.4,2.0,75.4,True
+L0067,Instructor-led,Getting Started,36.8,2.0,59.2,True
+L0067,Instructor-led,Core Concepts,34.2,3.0,60.6,True
+L0067,Instructor-led,Data Skills,64.9,,64.2,False
+L0067,Instructor-led,Applied Practice,,5.0,68.9,True
+L0067,Instructor-led,Knowledge Check,27.6,,70.9,True
+L0067,Instructor-led,Capstone,52.8,6.0,69.0,True
+L0068,Self-paced,Getting Started,47.2,4.0,69.5,True
+L0068,Self-paced,Core Concepts,34.9,1.0,86.1,True
+L0068,Self-paced,Data Skills,35.8,1.0,87.7,True
+L0068,Self-paced,Applied Practice,46.1,5.0,77.4,True
+L0068,Self-paced,Knowledge Check,63.7,6.0,58.2,True
+L0068,Self-paced,Capstone,47.4,6.0,65.7,True
+L0069,Self-paced,Getting Started,52.4,4.0,73.3,True
+L0069,Self-paced,Core Concepts,36.7,5.0,,True
+L0069,Self-paced,Data Skills,25.3,3.0,45.2,True
+L0069,Self-paced,Applied Practice,36.7,4.0,56.2,True
+L0069,Self-paced,Knowledge Check,61.3,4.0,62.2,False
+L0069,Self-paced,Capstone,54.7,2.0,74.6,False
+L0070,Self-paced,Getting Started,23.1,3.0,63.9,True
+L0070,Self-paced,Core Concepts,21.5,2.0,83.8,True
+L0070,Self-paced,Data Skills,49.1,4.0,82.9,True
+L0070,Self-paced,Applied Practice,28.8,1.0,69.0,True
+L0070,Self-paced,Knowledge Check,37.0,1.0,69.4,True
+L0070,Self-paced,Capstone,39.9,5.0,72.8,True
+L0071,Self-paced,Getting Started,21.7,4.0,83.1,True
+L0071,Self-paced,Core Concepts,39.0,2.0,72.9,True
+L0071,Self-paced,Data Skills,60.0,2.0,59.0,True
+L0071,Self-paced,Applied Practice,13.0,2.0,61.6,True
+L0071,Self-paced,Knowledge Check,,2.0,57.0,True
+L0071,Self-paced,Capstone,37.9,4.0,53.6,False
+L0072,Self-paced,Getting Started,16.9,3.0,60.3,True
+L0072,Self-paced,Core Concepts,18.8,3.0,51.5,True
+L0072,Self-paced,Data Skills,79.8,1.0,70.7,True
+L0072,Self-paced,Applied Practice,48.5,4.0,64.7,True
+L0072,Self-paced,Knowledge Check,46.3,1.0,51.6,True
+L0072,Self-paced,Capstone,29.7,3.0,71.9,False
+L0073,Returning learners,Getting Started,49.3,3.0,87.0,False
+L0073,Returning learners,Core Concepts,27.8,1.0,,True
+L0073,Returning learners,Data Skills,31.1,1.0,84.6,True
+L0073,Returning learners,Applied Practice,18.2,1.0,79.0,True
+L0073,Returning learners,Knowledge Check,,7.0,92.5,True
+L0073,Returning learners,Capstone,22.3,1.0,87.6,True
+L0074,Self-paced,Getting Started,56.5,1.0,68.0,True
+L0074,Self-paced,Core Concepts,38.8,5.0,69.6,True
+L0074,Self-paced,Data Skills,30.8,3.0,52.7,True
+L0074,Self-paced,Applied Practice,39.8,5.0,72.7,True
+L0074,Self-paced,Knowledge Check,52.5,3.0,50.2,True
+L0074,Self-paced,Capstone,67.6,5.0,66.2,False
+L0075,Self-paced,Getting Started,15.6,3.0,88.6,True
+L0075,Self-paced,Core Concepts,42.6,6.0,91.2,True
+L0075,Self-paced,Data Skills,133.6,4.0,70.1,True
+L0075,Self-paced,Applied Practice,78.6,2.0,94.0,True
+L0075,Self-paced,Knowledge Check,42.9,4.0,71.6,True
+L0075,Self-paced,Capstone,30.0,1.0,81.5,True
+L0076,Self-paced,Getting Started,7.5,1.0,,True
+L0076,Self-paced,Core Concepts,21.3,2.0,72.9,True
+L0076,Self-paced,Data Skills,41.7,1.0,72.9,True
+L0076,Self-paced,Applied Practice,17.2,2.0,67.9,True
+L0076,Self-paced,Knowledge Check,27.6,2.0,88.7,True
+L0076,Self-paced,Capstone,25.0,4.0,79.8,True
+L0077,Self-paced,Getting Started,54.1,2.0,78.9,True
+L0077,Self-paced,Core Concepts,40.7,3.0,88.6,False
+L0077,Self-paced,Data Skills,39.8,2.0,77.4,True
+L0077,Self-paced,Applied Practice,10.4,5.0,67.8,False
+L0077,Self-paced,Knowledge Check,24.8,4.0,47.3,True
+L0077,Self-paced,Capstone,29.4,3.0,57.8,True
+L0078,Instructor-led,Getting Started,83.6,2.0,60.2,True
+L0078,Instructor-led,Core Concepts,45.6,1.0,59.0,True
+L0078,Instructor-led,Data Skills,38.5,3.0,75.1,True
+L0078,Instructor-led,Applied Practice,60.3,2.0,69.4,True
+L0078,Instructor-led,Knowledge Check,25.3,1.0,46.5,True
+L0078,Instructor-led,Capstone,32.5,3.0,67.9,False
+L0079,Self-paced,Getting Started,21.2,2.0,89.1,False
+L0079,Self-paced,Core Concepts,32.8,4.0,96.6,True
+L0079,Self-paced,Data Skills,,5.0,65.3,False
+L0079,Self-paced,Applied Practice,39.6,3.0,79.9,True
+L0079,Self-paced,Knowledge Check,80.1,1.0,96.8,True
+L0079,Self-paced,Capstone,35.5,1.0,74.3,True
+L0080,Self-paced,Getting Started,43.9,1.0,82.1,True
+L0080,Self-paced,Core Concepts,21.2,1.0,78.3,True
+L0080,Self-paced,Data Skills,15.7,2.0,65.3,True
+L0080,Self-paced,Applied Practice,68.7,,65.5,True
+L0080,Self-paced,Knowledge Check,34.8,4.0,60.8,True
+L0080,Self-paced,Capstone,27.8,1.0,60.5,True
+L0081,Instructor-led,Getting Started,37.9,3.0,100.0,True
+L0081,Instructor-led,Core Concepts,44.3,5.0,69.0,True
+L0081,Instructor-led,Data Skills,29.6,5.0,70.6,True
+L0081,Instructor-led,Applied Practice,47.9,4.0,100.0,True
+L0081,Instructor-led,Knowledge Check,44.5,1.0,,False
+L0081,Instructor-led,Capstone,48.5,2.0,84.8,True
+L0082,Returning learners,Getting Started,29.7,,42.4,True
+L0082,Returning learners,Core Concepts,60.4,4.0,57.6,True
+L0082,Returning learners,Data Skills,23.5,4.0,70.4,True
+L0082,Returning learners,Applied Practice,33.0,4.0,81.8,True
+L0082,Returning learners,Knowledge Check,40.2,1.0,57.9,False
+L0082,Returning learners,Capstone,25.8,2.0,40.7,True
+L0083,Self-paced,Getting Started,18.8,3.0,57.2,True
+L0083,Self-paced,Core Concepts,46.2,4.0,73.3,True
+L0083,Self-paced,Data Skills,40.5,3.0,62.8,True
+L0083,Self-paced,Applied Practice,63.5,7.0,52.2,True
+L0083,Self-paced,Knowledge Check,35.4,1.0,82.8,True
+L0083,Self-paced,Capstone,42.8,3.0,63.6,True
+L0084,Self-paced,Getting Started,13.0,6.0,77.5,True
+L0084,Self-paced,Core Concepts,15.0,1.0,95.5,True
+L0084,Self-paced,Data Skills,41.5,2.0,62.3,True
+L0084,Self-paced,Applied Practice,50.6,2.0,65.9,True
+L0084,Self-paced,Knowledge Check,61.1,4.0,75.4,True
+L0084,Self-paced,Capstone,31.2,6.0,78.0,True
+L0085,Instructor-led,Getting Started,15.1,1.0,77.9,True
+L0085,Instructor-led,Core Concepts,30.2,4.0,78.5,False
+L0085,Instructor-led,Data Skills,33.7,1.0,49.2,True
+L0085,Instructor-led,Applied Practice,29.4,1.0,,True
+L0085,Instructor-led,Knowledge Check,40.5,2.0,61.6,True
+L0085,Instructor-led,Capstone,39.3,2.0,64.8,False
+L0086,Self-paced,Getting Started,31.2,,58.8,True
+L0086,Self-paced,Core Concepts,28.9,3.0,44.3,True
+L0086,Self-paced,Data Skills,16.0,1.0,58.0,False
+L0086,Self-paced,Applied Practice,52.6,4.0,56.7,True
+L0086,Self-paced,Knowledge Check,45.7,4.0,63.1,True
+L0086,Self-paced,Capstone,45.7,2.0,58.7,True
+L0087,Self-paced,Getting Started,68.2,3.0,78.7,True
+L0087,Self-paced,Core Concepts,,1.0,50.0,True
+L0087,Self-paced,Data Skills,51.1,4.0,71.4,True
+L0087,Self-paced,Applied Practice,91.6,1.0,51.6,True
+L0087,Self-paced,Knowledge Check,16.8,2.0,68.3,True
+L0087,Self-paced,Capstone,69.8,2.0,73.8,True
+L0088,Self-paced,Getting Started,26.1,1.0,70.3,True
+L0088,Self-paced,Core Concepts,43.1,1.0,60.0,True
+L0088,Self-paced,Data Skills,23.9,3.0,80.9,True
+L0088,Self-paced,Applied Practice,42.1,2.0,69.2,False
+L0088,Self-paced,Knowledge Check,20.7,,60.0,True
+L0088,Self-paced,Capstone,41.4,4.0,71.0,True
+L0089,Returning learners,Getting Started,56.4,,91.4,True
+L0089,Returning learners,Core Concepts,20.0,2.0,63.1,True
+L0089,Returning learners,Data Skills,32.5,2.0,73.1,True
+L0089,Returning learners,Applied Practice,28.7,2.0,68.3,True
+L0089,Returning learners,Knowledge Check,32.2,3.0,58.0,True
+L0089,Returning learners,Capstone,57.9,3.0,78.0,True
+L0090,Instructor-led,Getting Started,39.5,5.0,,True
+L0090,Instructor-led,Core Concepts,53.2,1.0,70.7,True
+L0090,Instructor-led,Data Skills,,3.0,79.4,True
+L0090,Instructor-led,Applied Practice,48.1,4.0,71.6,True
+L0090,Instructor-led,Knowledge Check,22.4,5.0,69.0,True
+L0090,Instructor-led,Capstone,47.4,,82.5,True
+L0091,Self-paced,Getting Started,11.8,1.0,63.9,True
+L0091,Self-paced,Core Concepts,43.8,4.0,,True
+L0091,Self-paced,Data Skills,81.3,1.0,87.9,False
+L0091,Self-paced,Applied Practice,24.1,2.0,66.5,False
+L0091,Self-paced,Knowledge Check,40.0,3.0,61.8,True
+L0091,Self-paced,Capstone,38.1,4.0,53.3,True
+L0092,Self-paced,Getting Started,27.7,2.0,58.8,False
+L0092,Self-paced,Core Concepts,20.8,2.0,65.2,True
+L0092,Self-paced,Data Skills,104.1,4.0,57.3,True
+L0092,Self-paced,Applied Practice,50.3,1.0,43.4,True
+L0092,Self-paced,Knowledge Check,76.8,2.0,55.2,True
+L0092,Self-paced,Capstone,55.0,5.0,54.6,True
+L0093,Returning learners,Getting Started,50.8,3.0,75.8,True
+L0093,Returning learners,Core Concepts,39.7,3.0,83.3,True
+L0093,Returning learners,Data Skills,27.4,2.0,51.2,True
+L0093,Returning learners,Applied Practice,,2.0,57.0,True
+L0093,Returning learners,Knowledge Check,51.0,3.0,67.2,False
+L0093,Returning learners,Capstone,74.3,1.0,56.8,True
+L0094,Self-paced,Getting Started,40.6,1.0,,True
+L0094,Self-paced,Core Concepts,42.2,2.0,55.3,False
+L0094,Self-paced,Data Skills,42.2,3.0,43.2,True
+L0094,Self-paced,Applied Practice,44.8,2.0,,True
+L0094,Self-paced,Knowledge Check,53.3,3.0,65.9,False
+L0094,Self-paced,Capstone,38.2,6.0,60.0,True
+L0095,Self-paced,Getting Started,21.6,2.0,59.8,False
+L0095,Self-paced,Core Concepts,59.8,5.0,70.3,True
+L0095,Self-paced,Data Skills,25.1,3.0,63.4,False
+L0095,Self-paced,Applied Practice,46.5,7.0,58.2,True
+L0095,Self-paced,Knowledge Check,69.7,4.0,65.4,True
+L0095,Self-paced,Capstone,44.6,3.0,74.3,True
+L0096,Instructor-led,Getting Started,17.4,1.0,76.8,False
+L0096,Instructor-led,Core Concepts,63.8,2.0,73.3,True
+L0096,Instructor-led,Data Skills,43.0,2.0,67.2,True
+L0096,Instructor-led,Applied Practice,17.6,1.0,88.8,True
+L0096,Instructor-led,Knowledge Check,54.7,2.0,64.8,True
+L0096,Instructor-led,Capstone,53.8,1.0,85.9,True
+L0097,Instructor-led,Getting Started,71.5,1.0,94.9,True
+L0097,Instructor-led,Core Concepts,28.6,3.0,86.8,True
+L0097,Instructor-led,Data Skills,18.1,4.0,77.2,True
+L0097,Instructor-led,Applied Practice,33.4,3.0,66.6,True
+L0097,Instructor-led,Knowledge Check,42.5,2.0,87.8,True
+L0097,Instructor-led,Capstone,20.7,1.0,63.3,True
+L0098,Self-paced,Getting Started,44.1,6.0,95.1,True
+L0098,Self-paced,Core Concepts,32.8,6.0,89.7,True
+L0098,Self-paced,Data Skills,47.8,1.0,61.0,True
+L0098,Self-paced,Applied Practice,63.5,3.0,76.4,True
+L0098,Self-paced,Knowledge Check,29.6,3.0,68.8,True
+L0098,Self-paced,Capstone,29.1,1.0,63.4,False
+L0099,Instructor-led,Getting Started,52.7,5.0,,True
+L0099,Instructor-led,Core Concepts,37.2,3.0,57.0,True
+L0099,Instructor-led,Data Skills,31.8,2.0,68.3,True
+L0099,Instructor-led,Applied Practice,91.7,2.0,59.6,True
+L0099,Instructor-led,Knowledge Check,46.7,4.0,60.7,True
+L0099,Instructor-led,Capstone,36.1,2.0,67.7,True
+L0100,Self-paced,Getting Started,36.7,3.0,64.2,True
+L0100,Self-paced,Core Concepts,24.9,3.0,,True
+L0100,Self-paced,Data Skills,28.5,1.0,39.9,True
+L0100,Self-paced,Applied Practice,39.8,2.0,60.2,True
+L0100,Self-paced,Knowledge Check,46.0,3.0,55.1,False
+L0100,Self-paced,Capstone,37.6,2.0,34.6,True
+L0101,Returning learners,Getting Started,27.7,1.0,78.6,True
+L0101,Returning learners,Core Concepts,28.8,2.0,53.1,True
+L0101,Returning learners,Data Skills,49.0,1.0,59.4,True
+L0101,Returning learners,Applied Practice,22.0,3.0,45.7,True
+L0101,Returning learners,Knowledge Check,58.1,2.0,43.3,True
+L0101,Returning learners,Capstone,35.3,2.0,41.7,True
+L0102,Self-paced,Getting Started,47.1,,77.5,True
+L0102,Self-paced,Core Concepts,17.6,2.0,,True
+L0102,Self-paced,Data Skills,25.3,3.0,75.0,True
+L0102,Self-paced,Applied Practice,47.4,2.0,63.6,True
+L0102,Self-paced,Knowledge Check,37.7,1.0,76.0,True
+L0102,Self-paced,Capstone,20.7,2.0,65.2,True
+L0103,Self-paced,Getting Started,63.1,1.0,67.1,True
+L0103,Self-paced,Core Concepts,27.1,7.0,69.8,True
+L0103,Self-paced,Data Skills,56.1,2.0,99.6,True
+L0103,Self-paced,Applied Practice,46.0,3.0,80.2,False
+L0103,Self-paced,Knowledge Check,83.8,2.0,70.6,True
+L0103,Self-paced,Capstone,34.2,2.0,59.8,True
+L0104,Instructor-led,Getting Started,24.2,4.0,59.3,True
+L0104,Instructor-led,Core Concepts,18.3,1.0,62.0,True
+L0104,Instructor-led,Data Skills,48.7,2.0,63.2,True
+L0104,Instructor-led,Applied Practice,20.8,3.0,62.1,True
+L0104,Instructor-led,Knowledge Check,34.0,4.0,60.2,True
+L0104,Instructor-led,Capstone,18.0,2.0,48.6,True
+L0105,Returning learners,Getting Started,29.7,1.0,91.0,True
+L0105,Returning learners,Core Concepts,27.6,5.0,69.9,True
+L0105,Returning learners,Data Skills,51.5,5.0,71.7,True
+L0105,Returning learners,Applied Practice,29.4,2.0,67.7,False
+L0105,Returning learners,Knowledge Check,34.2,1.0,99.7,True
+L0105,Returning learners,Capstone,43.9,3.0,82.9,True
+L0106,Instructor-led,Getting Started,59.0,4.0,88.5,True
+L0106,Instructor-led,Core Concepts,29.4,3.0,80.2,True
+L0106,Instructor-led,Data Skills,55.1,1.0,79.0,True
+L0106,Instructor-led,Applied Practice,55.9,2.0,68.9,True
+L0106,Instructor-led,Knowledge Check,86.5,2.0,85.4,True
+L0106,Instructor-led,Capstone,37.2,2.0,60.7,True
+L0107,Instructor-led,Getting Started,56.5,1.0,55.7,True
+L0107,Instructor-led,Core Concepts,45.6,2.0,83.9,False
+L0107,Instructor-led,Data Skills,30.2,1.0,59.7,True
+L0107,Instructor-led,Applied Practice,41.9,1.0,69.4,True
+L0107,Instructor-led,Knowledge Check,84.1,3.0,44.5,False
+L0107,Instructor-led,Capstone,55.6,2.0,,True
+L0108,Self-paced,Getting Started,,2.0,,True
+L0108,Self-paced,Core Concepts,16.8,2.0,66.1,True
+L0108,Self-paced,Data Skills,40.9,5.0,75.4,True
+L0108,Self-paced,Applied Practice,40.0,3.0,68.6,False
+L0108,Self-paced,Knowledge Check,45.2,,86.8,True
+L0108,Self-paced,Capstone,39.5,2.0,76.1,True
+L0109,Self-paced,Getting Started,79.2,4.0,95.1,True
+L0109,Self-paced,Core Concepts,64.1,3.0,76.1,False
+L0109,Self-paced,Data Skills,25.6,3.0,63.2,False
+L0109,Self-paced,Applied Practice,72.4,1.0,70.0,True
+L0109,Self-paced,Knowledge Check,18.8,5.0,57.1,True
+L0109,Self-paced,Capstone,62.7,1.0,64.9,True
+L0110,Instructor-led,Getting Started,62.7,2.0,84.3,True
+L0110,Instructor-led,Core Concepts,14.8,3.0,65.8,True
+L0110,Instructor-led,Data Skills,19.9,5.0,78.7,False
+L0110,Instructor-led,Applied Practice,49.4,3.0,82.9,True
+L0110,Instructor-led,Knowledge Check,54.2,2.0,82.2,True
+L0110,Instructor-led,Capstone,45.0,3.0,88.6,True
+L0111,Self-paced,Getting Started,59.4,1.0,68.1,True
+L0111,Self-paced,Core Concepts,27.9,4.0,56.0,True
+L0111,Self-paced,Data Skills,58.7,2.0,73.1,True
+L0111,Self-paced,Applied Practice,32.2,5.0,75.2,True
+L0111,Self-paced,Knowledge Check,28.6,4.0,49.3,True
+L0111,Self-paced,Capstone,70.9,5.0,71.1,True
+L0112,Returning learners,Getting Started,,4.0,,False
+L0112,Returning learners,Core Concepts,95.4,2.0,57.2,True
+L0112,Returning learners,Data Skills,36.8,2.0,45.2,False
+L0112,Returning learners,Applied Practice,29.6,1.0,36.9,False
+L0112,Returning learners,Knowledge Check,35.9,1.0,53.8,True
+L0112,Returning learners,Capstone,92.6,2.0,63.5,True
+L0113,Returning learners,Getting Started,21.2,1.0,82.7,True
+L0113,Returning learners,Core Concepts,63.1,3.0,62.0,True
+L0113,Returning learners,Data Skills,,2.0,55.5,False
+L0113,Returning learners,Applied Practice,16.2,2.0,89.7,True
+L0113,Returning learners,Knowledge Check,20.3,2.0,62.7,True
+L0113,Returning learners,Capstone,50.7,3.0,85.0,True
+L0114,Instructor-led,Getting Started,,1.0,59.1,False
+L0114,Instructor-led,Core Concepts,28.6,4.0,60.8,False
+L0114,Instructor-led,Data Skills,39.0,3.0,78.5,True
+L0114,Instructor-led,Applied Practice,37.4,3.0,64.4,True
+L0114,Instructor-led,Knowledge Check,37.8,3.0,52.8,True
+L0114,Instructor-led,Capstone,17.9,5.0,64.7,False
+L0115,Self-paced,Getting Started,41.0,1.0,77.0,True
+L0115,Self-paced,Core Concepts,16.2,1.0,64.3,False
+L0115,Self-paced,Data Skills,27.3,2.0,75.6,True
+L0115,Self-paced,Applied Practice,33.3,2.0,65.4,False
+L0115,Self-paced,Knowledge Check,18.2,2.0,56.4,False
+L0115,Self-paced,Capstone,36.0,3.0,56.3,True
+L0116,Returning learners,Getting Started,29.3,3.0,91.1,True
+L0116,Returning learners,Core Concepts,35.5,4.0,85.1,True
+L0116,Returning learners,Data Skills,36.7,2.0,,True
+L0116,Returning learners,Applied Practice,63.2,4.0,93.0,True
+L0116,Returning learners,Knowledge Check,40.6,2.0,85.6,True
+L0116,Returning learners,Capstone,38.2,3.0,,True
+L0117,Instructor-led,Getting Started,28.0,3.0,62.7,True
+L0117,Instructor-led,Core Concepts,13.9,4.0,67.0,True
+L0117,Instructor-led,Data Skills,61.4,1.0,54.5,True
+L0117,Instructor-led,Applied Practice,21.6,1.0,53.8,True
+L0117,Instructor-led,Knowledge Check,40.9,3.0,43.0,True
+L0117,Instructor-led,Capstone,23.3,4.0,61.0,True
+L0118,Instructor-led,Getting Started,38.8,4.0,85.3,True
+L0118,Instructor-led,Core Concepts,36.4,3.0,67.5,True
+L0118,Instructor-led,Data Skills,49.7,4.0,88.4,True
+L0118,Instructor-led,Applied Practice,44.8,3.0,67.7,True
+L0118,Instructor-led,Knowledge Check,18.4,1.0,81.5,True
+L0118,Instructor-led,Capstone,,5.0,67.6,True
+L0119,Self-paced,Getting Started,30.8,4.0,73.3,True
+L0119,Self-paced,Core Concepts,20.3,5.0,69.7,True
+L0119,Self-paced,Data Skills,48.8,1.0,72.0,True
+L0119,Self-paced,Applied Practice,16.5,2.0,66.3,True
+L0119,Self-paced,Knowledge Check,37.2,2.0,69.1,False
+L0119,Self-paced,Capstone,28.8,3.0,73.8,True
+L0120,Instructor-led,Getting Started,30.6,3.0,80.5,False
+L0120,Instructor-led,Core Concepts,26.1,5.0,81.3,True
+L0120,Instructor-led,Data Skills,26.1,5.0,70.2,True
+L0120,Instructor-led,Applied Practice,,5.0,,True
+L0120,Instructor-led,Knowledge Check,48.7,3.0,58.4,True
+L0120,Instructor-led,Capstone,46.4,2.0,49.2,True
+L0121,Instructor-led,Getting Started,27.3,2.0,69.2,True
+L0121,Instructor-led,Core Concepts,38.2,3.0,79.3,True
+L0121,Instructor-led,Data Skills,13.4,2.0,62.5,True
+L0121,Instructor-led,Applied Practice,,2.0,74.9,True
+L0121,Instructor-led,Knowledge Check,44.3,1.0,62.1,False
+L0121,Instructor-led,Capstone,54.7,4.0,79.8,True
+L0122,Self-paced,Getting Started,45.4,1.0,73.5,True
+L0122,Self-paced,Core Concepts,23.3,1.0,71.6,True
+L0122,Self-paced,Data Skills,,1.0,66.5,False
+L0122,Self-paced,Applied Practice,24.9,1.0,74.6,True
+L0122,Self-paced,Knowledge Check,66.9,3.0,51.7,True
+L0122,Self-paced,Capstone,39.8,2.0,53.2,True
+L0123,Self-paced,Getting Started,38.6,5.0,71.0,True
+L0123,Self-paced,Core Concepts,44.1,2.0,69.8,True
+L0123,Self-paced,Data Skills,22.9,3.0,69.7,False
+L0123,Self-paced,Applied Practice,34.7,6.0,77.6,True
+L0123,Self-paced,Knowledge Check,31.2,1.0,62.4,True
+L0123,Self-paced,Capstone,30.4,7.0,55.2,True
+L0124,Self-paced,Getting Started,35.3,7.0,79.6,True
+L0124,Self-paced,Core Concepts,79.1,1.0,77.7,True
+L0124,Self-paced,Data Skills,31.2,6.0,78.0,True
+L0124,Self-paced,Applied Practice,29.2,1.0,63.5,True
+L0124,Self-paced,Knowledge Check,53.4,4.0,75.0,False
+L0124,Self-paced,Capstone,33.2,1.0,63.6,True
+L0125,Instructor-led,Getting Started,25.9,2.0,76.1,True
+L0125,Instructor-led,Core Concepts,20.6,3.0,70.4,True
+L0125,Instructor-led,Data Skills,46.9,3.0,97.3,True
+L0125,Instructor-led,Applied Practice,,1.0,67.7,True
+L0125,Instructor-led,Knowledge Check,,5.0,80.7,True
+L0125,Instructor-led,Capstone,67.5,1.0,76.6,True
+L0126,Self-paced,Getting Started,29.1,1.0,76.6,True
+L0126,Self-paced,Core Concepts,42.1,2.0,74.8,True
+L0126,Self-paced,Data Skills,50.0,5.0,66.4,True
+L0126,Self-paced,Applied Practice,32.5,1.0,82.8,True
+L0126,Self-paced,Knowledge Check,37.4,3.0,61.3,False
+L0126,Self-paced,Capstone,,3.0,86.6,True
+L0127,Instructor-led,Getting Started,92.2,2.0,100.0,True
+L0127,Instructor-led,Core Concepts,44.3,3.0,62.6,True
+L0127,Instructor-led,Data Skills,36.8,4.0,56.3,True
+L0127,Instructor-led,Applied Practice,61.1,1.0,71.6,True
+L0127,Instructor-led,Knowledge Check,86.4,1.0,75.1,True
+L0127,Instructor-led,Capstone,44.8,3.0,67.1,True
+L0128,Instructor-led,Getting Started,20.3,,63.1,True
+L0128,Instructor-led,Core Concepts,22.1,3.0,,True
+L0128,Instructor-led,Data Skills,36.1,4.0,75.7,True
+L0128,Instructor-led,Applied Practice,27.4,1.0,,True
+L0128,Instructor-led,Knowledge Check,59.2,1.0,72.2,True
+L0128,Instructor-led,Capstone,39.5,3.0,75.2,True
+L0129,Instructor-led,Getting Started,14.3,1.0,,True
+L0129,Instructor-led,Core Concepts,15.7,1.0,63.1,True
+L0129,Instructor-led,Data Skills,,1.0,61.5,True
+L0129,Instructor-led,Applied Practice,31.0,1.0,57.9,True
+L0129,Instructor-led,Knowledge Check,32.1,3.0,66.9,True
+L0129,Instructor-led,Capstone,37.5,1.0,64.1,True
+L0130,Self-paced,Getting Started,37.8,2.0,52.3,True
+L0130,Self-paced,Core Concepts,39.3,7.0,52.7,False
+L0130,Self-paced,Data Skills,25.5,2.0,,True
+L0130,Self-paced,Applied Practice,30.9,2.0,48.8,False
+L0130,Self-paced,Knowledge Check,42.1,1.0,62.8,True
+L0130,Self-paced,Capstone,31.3,3.0,70.9,True
+L0131,Returning learners,Getting Started,,5.0,58.2,True
+L0131,Returning learners,Core Concepts,90.0,2.0,70.0,True
+L0131,Returning learners,Data Skills,70.4,3.0,,True
+L0131,Returning learners,Applied Practice,25.0,1.0,,True
+L0131,Returning learners,Knowledge Check,27.8,2.0,44.6,True
+L0131,Returning learners,Capstone,35.7,,50.4,False
+L0132,Self-paced,Getting Started,9.9,4.0,47.8,True
+L0132,Self-paced,Core Concepts,19.1,4.0,74.2,True
+L0132,Self-paced,Data Skills,13.8,3.0,51.2,True
+L0132,Self-paced,Applied Practice,15.8,1.0,63.2,False
+L0132,Self-paced,Knowledge Check,40.5,2.0,59.1,False
+L0132,Self-paced,Capstone,37.9,4.0,54.2,True
+L0133,Instructor-led,Getting Started,36.4,4.0,64.4,True
+L0133,Instructor-led,Core Concepts,40.1,3.0,76.0,True
+L0133,Instructor-led,Data Skills,43.9,1.0,66.7,True
+L0133,Instructor-led,Applied Practice,29.9,3.0,78.5,True
+L0133,Instructor-led,Knowledge Check,47.9,2.0,70.6,True
+L0133,Instructor-led,Capstone,33.6,2.0,82.0,True
+L0134,Self-paced,Getting Started,37.0,4.0,,True
+L0134,Self-paced,Core Concepts,34.5,5.0,66.6,True
+L0134,Self-paced,Data Skills,18.3,5.0,41.6,False
+L0134,Self-paced,Applied Practice,34.3,2.0,70.2,True
+L0134,Self-paced,Knowledge Check,19.9,5.0,57.7,True
+L0134,Self-paced,Capstone,42.3,1.0,74.1,False
+L0135,Instructor-led,Getting Started,26.9,1.0,52.4,True
+L0135,Instructor-led,Core Concepts,16.6,2.0,,True
+L0135,Instructor-led,Data Skills,17.4,1.0,67.5,False
+L0135,Instructor-led,Applied Practice,39.7,1.0,61.3,True
+L0135,Instructor-led,Knowledge Check,34.4,1.0,64.8,False
+L0135,Instructor-led,Capstone,45.1,1.0,52.9,True
+L0136,Self-paced,Getting Started,58.7,1.0,79.8,True
+L0136,Self-paced,Core Concepts,18.5,4.0,86.9,True
+L0136,Self-paced,Data Skills,32.5,2.0,96.4,True
+L0136,Self-paced,Applied Practice,36.9,2.0,94.8,True
+L0136,Self-paced,Knowledge Check,18.5,1.0,68.8,True
+L0136,Self-paced,Capstone,29.5,3.0,80.7,True
+L0137,Self-paced,Getting Started,38.6,3.0,80.9,True
+L0137,Self-paced,Core Concepts,36.2,3.0,95.8,True
+L0137,Self-paced,Data Skills,28.6,2.0,85.6,True
+L0137,Self-paced,Applied Practice,57.0,1.0,71.1,True
+L0137,Self-paced,Knowledge Check,23.2,3.0,64.5,True
+L0137,Self-paced,Capstone,37.8,2.0,74.5,False
+L0138,Returning learners,Getting Started,25.1,2.0,74.9,True
+L0138,Returning learners,Core Concepts,22.4,1.0,80.9,True
+L0138,Returning learners,Data Skills,41.9,4.0,82.9,True
+L0138,Returning learners,Applied Practice,30.3,3.0,81.3,True
+L0138,Returning learners,Knowledge Check,31.5,1.0,84.4,False
+L0138,Returning learners,Capstone,39.2,2.0,71.8,False
+L0139,Self-paced,Getting Started,27.4,3.0,77.3,True
+L0139,Self-paced,Core Concepts,42.5,4.0,73.4,True
+L0139,Self-paced,Data Skills,44.2,1.0,51.7,True
+L0139,Self-paced,Applied Practice,11.0,3.0,62.5,True
+L0139,Self-paced,Knowledge Check,22.3,4.0,61.2,True
+L0139,Self-paced,Capstone,30.0,1.0,56.8,False
+L0140,Instructor-led,Getting Started,10.5,2.0,66.5,True
+L0140,Instructor-led,Core Concepts,34.1,1.0,,True
+L0140,Instructor-led,Data Skills,14.8,2.0,50.2,False
+L0140,Instructor-led,Applied Practice,50.1,2.0,66.5,True
+L0140,Instructor-led,Knowledge Check,25.9,4.0,46.0,True
+L0140,Instructor-led,Capstone,,6.0,54.4,False
+L0141,Instructor-led,Getting Started,28.9,2.0,73.0,True
+L0141,Instructor-led,Core Concepts,61.0,2.0,62.7,True
+L0141,Instructor-led,Data Skills,63.4,4.0,89.4,True
+L0141,Instructor-led,Applied Practice,18.3,2.0,71.5,True
+L0141,Instructor-led,Knowledge Check,28.8,2.0,75.8,True
+L0141,Instructor-led,Capstone,88.8,2.0,77.4,True
+L0142,Self-paced,Getting Started,63.1,3.0,73.5,True
+L0142,Self-paced,Core Concepts,46.2,2.0,61.6,True
+L0142,Self-paced,Data Skills,99.0,2.0,52.6,True
+L0142,Self-paced,Applied Practice,24.7,4.0,63.4,True
+L0142,Self-paced,Knowledge Check,41.7,6.0,,True
+L0142,Self-paced,Capstone,44.9,4.0,,False
+L0143,Instructor-led,Getting Started,17.7,1.0,53.5,True
+L0143,Instructor-led,Core Concepts,26.1,1.0,57.3,True
+L0143,Instructor-led,Data Skills,40.4,3.0,,True
+L0143,Instructor-led,Applied Practice,21.4,3.0,76.8,True
+L0143,Instructor-led,Knowledge Check,28.6,3.0,79.6,True
+L0143,Instructor-led,Capstone,28.3,3.0,62.8,True
+L0144,Returning learners,Getting Started,31.6,4.0,72.0,True
+L0144,Returning learners,Core Concepts,43.9,3.0,64.5,False
+L0144,Returning learners,Data Skills,30.3,5.0,73.4,True
+L0144,Returning learners,Applied Practice,17.6,6.0,64.7,True
+L0144,Returning learners,Knowledge Check,25.6,2.0,53.4,True
+L0144,Returning learners,Capstone,32.4,2.0,74.0,True
+L0145,Self-paced,Getting Started,28.3,4.0,65.4,True
+L0145,Self-paced,Core Concepts,82.1,5.0,64.8,True
+L0145,Self-paced,Data Skills,60.1,3.0,58.3,True
+L0145,Self-paced,Applied Practice,29.3,3.0,,True
+L0145,Self-paced,Knowledge Check,47.9,2.0,76.8,True
+L0145,Self-paced,Capstone,37.5,5.0,59.1,True
+L0146,Returning learners,Getting Started,27.4,3.0,100.0,True
+L0146,Returning learners,Core Concepts,12.3,6.0,84.9,False
+L0146,Returning learners,Data Skills,71.1,6.0,80.9,True
+L0146,Returning learners,Applied Practice,22.1,1.0,55.4,True
+L0146,Returning learners,Knowledge Check,24.0,1.0,62.2,True
+L0146,Returning learners,Capstone,19.2,3.0,58.6,True
+L0147,Self-paced,Getting Started,64.1,2.0,87.0,True
+L0147,Self-paced,Core Concepts,28.7,4.0,76.9,True
+L0147,Self-paced,Data Skills,119.6,2.0,71.5,True
+L0147,Self-paced,Applied Practice,37.4,2.0,83.9,True
+L0147,Self-paced,Knowledge Check,48.9,1.0,80.2,True
+L0147,Self-paced,Capstone,58.2,4.0,73.5,True
+L0148,Instructor-led,Getting Started,59.5,2.0,90.1,True
+L0148,Instructor-led,Core Concepts,59.9,,92.0,True
+L0148,Instructor-led,Data Skills,67.1,5.0,87.2,True
+L0148,Instructor-led,Applied Practice,18.0,1.0,73.5,False
+L0148,Instructor-led,Knowledge Check,31.4,6.0,67.8,True
+L0148,Instructor-led,Capstone,48.2,3.0,68.6,True
+L0149,Self-paced,Getting Started,43.1,1.0,60.9,True
+L0149,Self-paced,Core Concepts,,2.0,68.2,True
+L0149,Self-paced,Data Skills,34.9,4.0,54.8,False
+L0149,Self-paced,Applied Practice,49.3,3.0,71.1,True
+L0149,Self-paced,Knowledge Check,49.5,9.0,75.2,True
+L0149,Self-paced,Capstone,37.6,3.0,65.5,True
+L0150,Self-paced,Getting Started,48.7,1.0,79.5,True
+L0150,Self-paced,Core Concepts,41.5,3.0,55.6,True
+L0150,Self-paced,Data Skills,31.2,1.0,56.3,False
+L0150,Self-paced,Applied Practice,30.4,2.0,75.2,True
+L0150,Self-paced,Knowledge Check,42.9,3.0,62.5,True
+L0150,Self-paced,Capstone,31.2,2.0,64.6,False
+L0151,Instructor-led,Getting Started,50.3,2.0,69.2,True
+L0151,Instructor-led,Core Concepts,35.9,3.0,74.1,True
+L0151,Instructor-led,Data Skills,13.9,2.0,64.0,False
+L0151,Instructor-led,Applied Practice,13.3,5.0,67.9,True
+L0151,Instructor-led,Knowledge Check,49.5,3.0,36.8,True
+L0151,Instructor-led,Capstone,50.0,3.0,50.4,False
+L0152,Self-paced,Getting Started,40.0,8.0,,False
+L0152,Self-paced,Core Concepts,54.9,1.0,,True
+L0152,Self-paced,Data Skills,25.8,2.0,57.5,True
+L0152,Self-paced,Applied Practice,12.6,1.0,61.5,True
+L0152,Self-paced,Knowledge Check,38.5,5.0,68.4,True
+L0152,Self-paced,Capstone,57.1,1.0,73.4,True
+L0153,Returning learners,Getting Started,21.4,3.0,74.2,True
+L0153,Returning learners,Core Concepts,42.2,4.0,70.0,True
+L0153,Returning learners,Data Skills,56.7,2.0,60.1,True
+L0153,Returning learners,Applied Practice,25.1,1.0,69.3,False
+L0153,Returning learners,Knowledge Check,26.6,3.0,73.1,True
+L0153,Returning learners,Capstone,63.3,3.0,72.8,True
+L0154,Instructor-led,Getting Started,44.2,1.0,60.9,True
+L0154,Instructor-led,Core Concepts,35.4,3.0,,True
+L0154,Instructor-led,Data Skills,24.7,2.0,61.9,True
+L0154,Instructor-led,Applied Practice,51.8,1.0,75.1,True
+L0154,Instructor-led,Knowledge Check,30.4,,55.1,True
+L0154,Instructor-led,Capstone,28.1,2.0,53.6,True
+L0155,Self-paced,Getting Started,32.8,1.0,80.1,True
+L0155,Self-paced,Core Concepts,16.6,5.0,,True
+L0155,Self-paced,Data Skills,57.5,3.0,97.5,True
+L0155,Self-paced,Applied Practice,35.0,1.0,67.6,True
+L0155,Self-paced,Knowledge Check,33.6,2.0,73.3,True
+L0155,Self-paced,Capstone,46.7,7.0,92.0,True
+L0156,Instructor-led,Getting Started,12.5,1.0,74.0,True
+L0156,Instructor-led,Core Concepts,14.9,1.0,71.4,True
+L0156,Instructor-led,Data Skills,42.3,3.0,59.2,True
+L0156,Instructor-led,Applied Practice,57.1,1.0,52.2,False
+L0156,Instructor-led,Knowledge Check,23.7,5.0,61.3,True
+L0156,Instructor-led,Capstone,69.9,5.0,,True
+L0157,Self-paced,Getting Started,28.6,1.0,69.1,True
+L0157,Self-paced,Core Concepts,13.0,3.0,57.1,True
+L0157,Self-paced,Data Skills,80.3,1.0,71.7,True
+L0157,Self-paced,Applied Practice,33.2,3.0,58.8,True
+L0157,Self-paced,Knowledge Check,31.8,3.0,62.1,True
+L0157,Self-paced,Capstone,33.4,1.0,52.1,True
+L0158,Instructor-led,Getting Started,50.1,5.0,65.3,True
+L0158,Instructor-led,Core Concepts,28.2,1.0,62.8,False
+L0158,Instructor-led,Data Skills,36.1,1.0,45.0,True
+L0158,Instructor-led,Applied Practice,28.7,3.0,48.7,False
+L0158,Instructor-led,Knowledge Check,22.0,1.0,65.2,False
+L0158,Instructor-led,Capstone,42.5,4.0,46.8,False
+L0159,Returning learners,Getting Started,61.6,3.0,83.7,True
+L0159,Returning learners,Core Concepts,28.5,1.0,62.7,False
+L0159,Returning learners,Data Skills,42.2,3.0,81.4,True
+L0159,Returning learners,Applied Practice,28.9,2.0,80.5,True
+L0159,Returning learners,Knowledge Check,25.4,1.0,67.6,False
+L0159,Returning learners,Capstone,32.9,3.0,59.5,True
+L0160,Instructor-led,Getting Started,57.6,2.0,73.8,True
+L0160,Instructor-led,Core Concepts,20.5,2.0,76.4,False
+L0160,Instructor-led,Data Skills,50.6,4.0,75.0,True
+L0160,Instructor-led,Applied Practice,25.4,4.0,70.5,False
+L0160,Instructor-led,Knowledge Check,45.6,,68.7,True
+L0160,Instructor-led,Capstone,25.7,1.0,76.5,True
+L0161,Self-paced,Getting Started,62.6,5.0,70.3,True
+L0161,Self-paced,Core Concepts,72.3,2.0,79.6,False
+L0161,Self-paced,Data Skills,48.2,3.0,76.6,True
+L0161,Self-paced,Applied Practice,,4.0,98.6,True
+L0161,Self-paced,Knowledge Check,41.5,2.0,62.5,True
+L0161,Self-paced,Capstone,38.1,,65.5,True
+L0162,Self-paced,Getting Started,44.9,1.0,100.0,True
+L0162,Self-paced,Core Concepts,17.4,1.0,100.0,True
+L0162,Self-paced,Data Skills,32.3,5.0,79.5,True
+L0162,Self-paced,Applied Practice,17.7,2.0,100.0,True
+L0162,Self-paced,Knowledge Check,20.0,1.0,76.4,True
+L0162,Self-paced,Capstone,19.8,2.0,70.4,True
+L0163,Instructor-led,Getting Started,20.6,1.0,66.1,False
+L0163,Instructor-led,Core Concepts,24.4,3.0,78.5,True
+L0163,Instructor-led,Data Skills,,1.0,83.9,True
+L0163,Instructor-led,Applied Practice,43.9,1.0,72.2,True
+L0163,Instructor-led,Knowledge Check,27.0,,71.3,True
+L0163,Instructor-led,Capstone,92.2,2.0,,True
+L0164,Self-paced,Getting Started,21.4,4.0,42.1,True
+L0164,Self-paced,Core Concepts,27.3,1.0,,True
+L0164,Self-paced,Data Skills,27.0,2.0,71.5,False
+L0164,Self-paced,Applied Practice,28.4,2.0,65.8,True
+L0164,Self-paced,Knowledge Check,60.8,1.0,60.5,True
+L0164,Self-paced,Capstone,29.7,3.0,55.7,True
+L0165,Returning learners,Getting Started,10.7,3.0,72.9,True
+L0165,Returning learners,Core Concepts,31.1,1.0,85.3,True
+L0165,Returning learners,Data Skills,31.2,3.0,100.0,True
+L0165,Returning learners,Applied Practice,25.8,2.0,,True
+L0165,Returning learners,Knowledge Check,17.1,1.0,68.3,True
+L0165,Returning learners,Capstone,36.9,2.0,89.0,True
+L0166,Instructor-led,Getting Started,37.1,,,True
+L0166,Instructor-led,Core Concepts,29.2,6.0,67.7,False
+L0166,Instructor-led,Data Skills,48.4,2.0,80.3,False
+L0166,Instructor-led,Applied Practice,,5.0,56.2,True
+L0166,Instructor-led,Knowledge Check,,1.0,63.1,True
+L0166,Instructor-led,Capstone,40.8,6.0,65.9,True
+L0167,Instructor-led,Getting Started,27.8,3.0,86.1,False
+L0167,Instructor-led,Core Concepts,29.0,4.0,74.7,True
+L0167,Instructor-led,Data Skills,33.0,4.0,85.6,True
+L0167,Instructor-led,Applied Practice,33.5,4.0,57.0,True
+L0167,Instructor-led,Knowledge Check,27.2,3.0,72.3,True
+L0167,Instructor-led,Capstone,37.2,4.0,,True
+L0168,Instructor-led,Getting Started,26.2,1.0,95.0,False
+L0168,Instructor-led,Core Concepts,33.9,3.0,56.4,True
+L0168,Instructor-led,Data Skills,19.7,1.0,82.7,True
+L0168,Instructor-led,Applied Practice,14.6,1.0,57.9,False
+L0168,Instructor-led,Knowledge Check,36.1,1.0,71.7,True
+L0168,Instructor-led,Capstone,21.9,1.0,70.3,True
+L0169,Returning learners,Getting Started,52.6,1.0,52.0,True
+L0169,Returning learners,Core Concepts,33.9,5.0,,False
+L0169,Returning learners,Data Skills,40.8,3.0,58.7,True
+L0169,Returning learners,Applied Practice,,4.0,62.1,True
+L0169,Returning learners,Knowledge Check,44.3,3.0,56.5,False
+L0169,Returning learners,Capstone,36.1,1.0,62.1,True
+L0170,Self-paced,Getting Started,14.4,3.0,76.5,False
+L0170,Self-paced,Core Concepts,,1.0,72.6,True
+L0170,Self-paced,Data Skills,19.5,1.0,85.3,True
+L0170,Self-paced,Applied Practice,39.4,4.0,82.1,True
+L0170,Self-paced,Knowledge Check,48.0,3.0,73.9,True
+L0170,Self-paced,Capstone,25.2,3.0,63.5,True
+L0171,Instructor-led,Getting Started,19.7,1.0,,True
+L0171,Instructor-led,Core Concepts,17.2,1.0,49.3,False
+L0171,Instructor-led,Data Skills,36.1,1.0,69.3,True
+L0171,Instructor-led,Applied Practice,,1.0,74.6,True
+L0171,Instructor-led,Knowledge Check,35.1,1.0,,True
+L0171,Instructor-led,Capstone,27.6,1.0,48.9,True
+L0172,Self-paced,Getting Started,23.3,,63.3,True
+L0172,Self-paced,Core Concepts,22.2,6.0,82.1,True
+L0172,Self-paced,Data Skills,39.2,3.0,66.9,False
+L0172,Self-paced,Applied Practice,17.9,1.0,63.7,False
+L0172,Self-paced,Knowledge Check,26.8,7.0,59.8,True
+L0172,Self-paced,Capstone,53.9,5.0,71.1,True
+L0173,Returning learners,Getting Started,35.5,2.0,66.2,True
+L0173,Returning learners,Core Concepts,24.8,3.0,66.3,False
+L0173,Returning learners,Data Skills,51.8,1.0,57.6,True
+L0173,Returning learners,Applied Practice,48.5,2.0,54.8,True
+L0173,Returning learners,Knowledge Check,27.8,5.0,84.0,False
+L0173,Returning learners,Capstone,69.8,2.0,46.7,True
+L0174,Returning learners,Getting Started,19.0,2.0,85.6,True
+L0174,Returning learners,Core Concepts,26.0,3.0,76.0,True
+L0174,Returning learners,Data Skills,25.8,2.0,72.2,True
+L0174,Returning learners,Applied Practice,19.6,2.0,83.2,False
+L0174,Returning learners,Knowledge Check,,1.0,75.4,True
+L0174,Returning learners,Capstone,48.7,2.0,75.8,True
+L0175,Self-paced,Getting Started,28.5,3.0,58.0,True
+L0175,Self-paced,Core Concepts,35.4,2.0,60.2,True
+L0175,Self-paced,Data Skills,27.7,5.0,70.5,True
+L0175,Self-paced,Applied Practice,23.0,3.0,70.3,True
+L0175,Self-paced,Knowledge Check,16.1,7.0,63.1,True
+L0175,Self-paced,Capstone,42.1,1.0,60.0,True
+L0176,Self-paced,Getting Started,40.2,4.0,58.3,True
+L0176,Self-paced,Core Concepts,31.1,3.0,56.8,True
+L0176,Self-paced,Data Skills,81.5,2.0,66.8,True
+L0176,Self-paced,Applied Practice,58.4,1.0,72.1,False
+L0176,Self-paced,Knowledge Check,28.0,3.0,60.3,True
+L0176,Self-paced,Capstone,16.3,1.0,52.2,True
+L0177,Returning learners,Getting Started,,1.0,81.4,True
+L0177,Returning learners,Core Concepts,28.1,2.0,85.9,True
+L0177,Returning learners,Data Skills,29.3,4.0,72.3,True
+L0177,Returning learners,Applied Practice,31.0,2.0,100.0,True
+L0177,Returning learners,Knowledge Check,60.0,2.0,98.6,True
+L0177,Returning learners,Capstone,29.9,3.0,67.7,True
+L0178,Instructor-led,Getting Started,34.1,1.0,62.0,True
+L0178,Instructor-led,Core Concepts,23.6,3.0,74.2,True
+L0178,Instructor-led,Data Skills,46.8,1.0,59.1,True
+L0178,Instructor-led,Applied Practice,18.2,2.0,59.1,True
+L0178,Instructor-led,Knowledge Check,19.3,2.0,63.5,True
+L0178,Instructor-led,Capstone,74.4,3.0,58.0,True
+L0179,Self-paced,Getting Started,27.0,1.0,64.2,True
+L0179,Self-paced,Core Concepts,18.6,2.0,56.0,True
+L0179,Self-paced,Data Skills,40.4,5.0,81.9,True
+L0179,Self-paced,Applied Practice,22.7,1.0,,False
+L0179,Self-paced,Knowledge Check,25.5,7.0,77.3,True
+L0179,Self-paced,Capstone,73.4,2.0,57.9,True
+L0180,Self-paced,Getting Started,35.4,4.0,,True
+L0180,Self-paced,Core Concepts,36.4,6.0,89.4,True
+L0180,Self-paced,Data Skills,59.3,2.0,88.2,True
+L0180,Self-paced,Applied Practice,58.5,6.0,77.9,True
+L0180,Self-paced,Knowledge Check,87.4,1.0,,True
+L0180,Self-paced,Capstone,29.5,3.0,80.3,True
+L0181,Instructor-led,Getting Started,54.1,2.0,84.7,True
+L0181,Instructor-led,Core Concepts,49.0,4.0,91.9,True
+L0181,Instructor-led,Data Skills,68.0,4.0,67.6,True
+L0181,Instructor-led,Applied Practice,26.5,5.0,76.0,True
+L0181,Instructor-led,Knowledge Check,,3.0,69.3,True
+L0181,Instructor-led,Capstone,,2.0,69.2,True
+L0182,Instructor-led,Getting Started,31.5,3.0,100.0,True
+L0182,Instructor-led,Core Concepts,72.6,3.0,81.7,True
+L0182,Instructor-led,Data Skills,38.3,1.0,83.7,False
+L0182,Instructor-led,Applied Practice,24.4,4.0,69.7,False
+L0182,Instructor-led,Knowledge Check,16.9,2.0,59.0,False
+L0182,Instructor-led,Capstone,19.4,1.0,80.1,True
+L0183,Self-paced,Getting Started,50.3,1.0,69.8,True
+L0183,Self-paced,Core Concepts,20.6,6.0,74.8,True
+L0183,Self-paced,Data Skills,24.9,,65.9,True
+L0183,Self-paced,Applied Practice,,5.0,70.3,False
+L0183,Self-paced,Knowledge Check,42.0,3.0,63.2,True
+L0183,Self-paced,Capstone,63.9,6.0,65.5,True
+L0184,Self-paced,Getting Started,34.4,4.0,71.7,False
+L0184,Self-paced,Core Concepts,43.3,1.0,72.4,True
+L0184,Self-paced,Data Skills,21.7,1.0,45.6,False
+L0184,Self-paced,Applied Practice,24.5,1.0,86.7,True
+L0184,Self-paced,Knowledge Check,25.1,6.0,42.1,True
+L0184,Self-paced,Capstone,35.1,1.0,71.8,False
+L0185,Returning learners,Getting Started,,1.0,59.5,True
+L0185,Returning learners,Core Concepts,,1.0,73.4,True
+L0185,Returning learners,Data Skills,23.0,1.0,76.8,True
+L0185,Returning learners,Applied Practice,67.1,1.0,70.2,True
+L0185,Returning learners,Knowledge Check,33.7,5.0,75.7,False
+L0185,Returning learners,Capstone,20.8,5.0,74.5,False
+L0186,Returning learners,Getting Started,21.4,,78.8,True
+L0186,Returning learners,Core Concepts,27.3,4.0,88.2,True
+L0186,Returning learners,Data Skills,29.8,4.0,84.9,True
+L0186,Returning learners,Applied Practice,28.4,4.0,79.9,True
+L0186,Returning learners,Knowledge Check,27.8,2.0,89.7,True
+L0186,Returning learners,Capstone,52.1,2.0,51.7,True
+L0187,Instructor-led,Getting Started,22.2,1.0,83.3,True
+L0187,Instructor-led,Core Concepts,27.4,6.0,,True
+L0187,Instructor-led,Data Skills,19.9,3.0,72.4,True
+L0187,Instructor-led,Applied Practice,42.9,1.0,52.3,True
+L0187,Instructor-led,Knowledge Check,54.1,1.0,72.7,True
+L0187,Instructor-led,Capstone,24.4,6.0,67.9,True
+L0188,Instructor-led,Getting Started,,4.0,66.0,True
+L0188,Instructor-led,Core Concepts,37.2,6.0,57.4,True
+L0188,Instructor-led,Data Skills,36.3,1.0,61.5,True
+L0188,Instructor-led,Applied Practice,57.1,1.0,,True
+L0188,Instructor-led,Knowledge Check,111.7,3.0,81.4,True
+L0188,Instructor-led,Capstone,48.7,3.0,92.7,True
+L0189,Instructor-led,Getting Started,42.4,1.0,51.4,False
+L0189,Instructor-led,Core Concepts,36.1,5.0,57.0,True
+L0189,Instructor-led,Data Skills,38.2,4.0,40.4,True
+L0189,Instructor-led,Applied Practice,28.7,3.0,59.7,False
+L0189,Instructor-led,Knowledge Check,43.8,6.0,31.8,True
+L0189,Instructor-led,Capstone,49.1,4.0,,True
+L0190,Returning learners,Getting Started,36.3,1.0,84.6,True
+L0190,Returning learners,Core Concepts,33.1,4.0,64.0,False
+L0190,Returning learners,Data Skills,34.4,2.0,60.7,True
+L0190,Returning learners,Applied Practice,33.1,4.0,84.3,True
+L0190,Returning learners,Knowledge Check,43.6,4.0,,True
+L0190,Returning learners,Capstone,38.9,1.0,63.1,False
+L0191,Self-paced,Getting Started,,1.0,58.4,True
+L0191,Self-paced,Core Concepts,34.9,1.0,74.5,True
+L0191,Self-paced,Data Skills,23.2,1.0,73.9,True
+L0191,Self-paced,Applied Practice,14.1,2.0,48.8,True
+L0191,Self-paced,Knowledge Check,25.8,,61.5,False
+L0191,Self-paced,Capstone,26.1,1.0,58.5,True
+L0192,Self-paced,Getting Started,15.6,,74.4,True
+L0192,Self-paced,Core Concepts,35.4,2.0,80.7,True
+L0192,Self-paced,Data Skills,40.5,3.0,77.3,False
+L0192,Self-paced,Applied Practice,57.1,2.0,78.3,True
+L0192,Self-paced,Knowledge Check,53.7,3.0,53.5,True
+L0192,Self-paced,Capstone,74.3,4.0,59.1,True
+L0193,Self-paced,Getting Started,21.1,1.0,80.1,True
+L0193,Self-paced,Core Concepts,21.8,4.0,52.1,True
+L0193,Self-paced,Data Skills,32.5,1.0,69.4,True
+L0193,Self-paced,Applied Practice,60.0,3.0,68.5,True
+L0193,Self-paced,Knowledge Check,34.1,2.0,64.1,True
+L0193,Self-paced,Capstone,32.4,1.0,91.4,True
+L0194,Instructor-led,Getting Started,28.7,4.0,,True
+L0194,Instructor-led,Core Concepts,,7.0,68.3,True
+L0194,Instructor-led,Data Skills,44.7,5.0,69.7,True
+L0194,Instructor-led,Applied Practice,44.1,4.0,60.0,True
+L0194,Instructor-led,Knowledge Check,22.0,6.0,70.4,True
+L0194,Instructor-led,Capstone,,4.0,67.4,True
+L0195,Self-paced,Getting Started,37.8,1.0,78.0,True
+L0195,Self-paced,Core Concepts,31.1,3.0,71.2,False
+L0195,Self-paced,Data Skills,40.6,2.0,56.9,True
+L0195,Self-paced,Applied Practice,59.2,4.0,87.4,True
+L0195,Self-paced,Knowledge Check,41.9,5.0,77.7,True
+L0195,Self-paced,Capstone,36.7,1.0,65.1,True
+L0196,Returning learners,Getting Started,28.7,4.0,48.2,True
+L0196,Returning learners,Core Concepts,15.9,1.0,58.8,True
+L0196,Returning learners,Data Skills,26.5,1.0,59.9,True
+L0196,Returning learners,Applied Practice,48.9,3.0,57.9,True
+L0196,Returning learners,Knowledge Check,24.0,2.0,77.3,True
+L0196,Returning learners,Capstone,59.1,4.0,41.0,True
+L0197,Self-paced,Getting Started,30.7,1.0,79.4,True
+L0197,Self-paced,Core Concepts,37.2,2.0,63.9,True
+L0197,Self-paced,Data Skills,89.0,1.0,73.4,True
+L0197,Self-paced,Applied Practice,,2.0,,True
+L0197,Self-paced,Knowledge Check,37.0,1.0,,True
+L0197,Self-paced,Capstone,75.1,2.0,66.8,True
+L0198,Instructor-led,Getting Started,14.0,4.0,69.8,True
+L0198,Instructor-led,Core Concepts,19.1,1.0,76.2,True
+L0198,Instructor-led,Data Skills,63.6,1.0,65.2,True
+L0198,Instructor-led,Applied Practice,23.3,1.0,82.1,True
+L0198,Instructor-led,Knowledge Check,35.8,4.0,75.4,False
+L0198,Instructor-led,Capstone,,,67.1,True
+L0199,Self-paced,Getting Started,65.5,2.0,,True
+L0199,Self-paced,Core Concepts,35.9,1.0,86.5,False
+L0199,Self-paced,Data Skills,15.5,3.0,66.3,True
+L0199,Self-paced,Applied Practice,61.3,1.0,70.3,True
+L0199,Self-paced,Knowledge Check,35.6,2.0,62.5,True
+L0199,Self-paced,Capstone,90.5,2.0,62.2,True
+L0200,Self-paced,Getting Started,23.3,5.0,66.8,True
+L0200,Self-paced,Core Concepts,22.6,4.0,70.1,True
+L0200,Self-paced,Data Skills,76.4,1.0,76.2,True
+L0200,Self-paced,Applied Practice,59.1,1.0,66.3,False
+L0200,Self-paced,Knowledge Check,29.1,5.0,72.3,True
+L0200,Self-paced,Capstone,45.7,2.0,59.4,True
+L0201,Self-paced,Getting Started,38.9,3.0,67.5,True
+L0201,Self-paced,Core Concepts,29.8,2.0,85.1,True
+L0201,Self-paced,Data Skills,86.1,8.0,80.3,True
+L0201,Self-paced,Applied Practice,22.6,4.0,73.2,True
+L0201,Self-paced,Knowledge Check,30.9,4.0,55.4,False
+L0201,Self-paced,Capstone,21.8,6.0,54.8,True
+L0202,Self-paced,Getting Started,22.8,4.0,66.6,True
+L0202,Self-paced,Core Concepts,62.2,1.0,76.7,True
+L0202,Self-paced,Data Skills,50.4,1.0,86.6,True
+L0202,Self-paced,Applied Practice,27.9,3.0,71.6,True
+L0202,Self-paced,Knowledge Check,42.0,3.0,77.8,True
+L0202,Self-paced,Capstone,48.5,3.0,87.4,True
+L0203,Self-paced,Getting Started,29.6,1.0,62.9,False
+L0203,Self-paced,Core Concepts,53.1,4.0,,True
+L0203,Self-paced,Data Skills,53.7,,55.3,True
+L0203,Self-paced,Applied Practice,76.7,2.0,96.6,True
+L0203,Self-paced,Knowledge Check,79.7,3.0,71.7,False
+L0203,Self-paced,Capstone,34.9,3.0,56.2,True
+L0204,Self-paced,Getting Started,47.8,3.0,78.4,True
+L0204,Self-paced,Core Concepts,29.8,6.0,74.7,True
+L0204,Self-paced,Data Skills,55.1,4.0,70.0,True
+L0204,Self-paced,Applied Practice,50.7,3.0,62.8,True
+L0204,Self-paced,Knowledge Check,45.8,1.0,79.5,True
+L0204,Self-paced,Capstone,85.2,3.0,71.8,True
+L0205,Returning learners,Getting Started,26.2,1.0,72.2,True
+L0205,Returning learners,Core Concepts,51.7,1.0,72.8,True
+L0205,Returning learners,Data Skills,18.9,1.0,92.9,False
+L0205,Returning learners,Applied Practice,36.8,3.0,84.1,True
+L0205,Returning learners,Knowledge Check,18.8,,54.9,False
+L0205,Returning learners,Capstone,,3.0,84.9,True
+L0206,Self-paced,Getting Started,32.5,5.0,89.0,True
+L0206,Self-paced,Core Concepts,44.1,2.0,68.3,True
+L0206,Self-paced,Data Skills,28.5,2.0,80.4,True
+L0206,Self-paced,Applied Practice,33.9,3.0,64.0,True
+L0206,Self-paced,Knowledge Check,,2.0,65.3,True
+L0206,Self-paced,Capstone,77.1,3.0,73.1,True
+L0207,Instructor-led,Getting Started,19.6,2.0,68.0,False
+L0207,Instructor-led,Core Concepts,20.0,3.0,75.6,True
+L0207,Instructor-led,Data Skills,30.5,3.0,,False
+L0207,Instructor-led,Applied Practice,60.1,2.0,72.5,True
+L0207,Instructor-led,Knowledge Check,15.8,1.0,39.2,True
+L0207,Instructor-led,Capstone,22.6,1.0,71.0,True
+L0208,Self-paced,Getting Started,27.6,4.0,79.9,True
+L0208,Self-paced,Core Concepts,28.0,4.0,61.7,True
+L0208,Self-paced,Data Skills,40.0,5.0,76.6,True
+L0208,Self-paced,Applied Practice,37.4,2.0,84.2,True
+L0208,Self-paced,Knowledge Check,17.2,3.0,72.9,True
+L0208,Self-paced,Capstone,31.2,2.0,79.7,True
+L0209,Self-paced,Getting Started,46.6,2.0,66.0,False
+L0209,Self-paced,Core Concepts,24.9,3.0,77.5,True
+L0209,Self-paced,Data Skills,30.3,6.0,77.5,True
+L0209,Self-paced,Applied Practice,35.6,3.0,74.5,True
+L0209,Self-paced,Knowledge Check,42.6,3.0,,True
+L0209,Self-paced,Capstone,37.1,3.0,66.5,True
+L0210,Instructor-led,Getting Started,21.9,1.0,71.3,True
+L0210,Instructor-led,Core Concepts,73.9,1.0,62.7,True
+L0210,Instructor-led,Data Skills,37.0,5.0,59.6,True
+L0210,Instructor-led,Applied Practice,34.0,1.0,58.2,True
+L0210,Instructor-led,Knowledge Check,27.6,2.0,74.4,True
+L0210,Instructor-led,Capstone,66.3,2.0,66.7,True
+L0211,Self-paced,Getting Started,,4.0,69.9,True
+L0211,Self-paced,Core Concepts,18.0,2.0,42.3,False
+L0211,Self-paced,Data Skills,48.1,1.0,62.3,False
+L0211,Self-paced,Applied Practice,,2.0,82.6,True
+L0211,Self-paced,Knowledge Check,50.7,1.0,70.8,True
+L0211,Self-paced,Capstone,53.7,1.0,56.6,True
+L0212,Self-paced,Getting Started,73.0,3.0,73.0,True
+L0212,Self-paced,Core Concepts,33.6,2.0,70.4,True
+L0212,Self-paced,Data Skills,38.5,6.0,88.4,False
+L0212,Self-paced,Applied Practice,31.5,,,False
+L0212,Self-paced,Knowledge Check,38.2,3.0,57.9,True
+L0212,Self-paced,Capstone,70.7,2.0,69.9,False
+L0213,Self-paced,Getting Started,43.0,1.0,88.5,True
+L0213,Self-paced,Core Concepts,17.3,1.0,71.5,True
+L0213,Self-paced,Data Skills,45.3,2.0,81.6,True
+L0213,Self-paced,Applied Practice,53.4,3.0,61.4,False
+L0213,Self-paced,Knowledge Check,21.2,6.0,67.3,True
+L0213,Self-paced,Capstone,58.8,4.0,62.4,False
+L0214,Instructor-led,Getting Started,20.7,1.0,54.4,False
+L0214,Instructor-led,Core Concepts,25.0,2.0,60.9,True
+L0214,Instructor-led,Data Skills,40.6,1.0,59.5,True
+L0214,Instructor-led,Applied Practice,22.6,3.0,66.7,False
+L0214,Instructor-led,Knowledge Check,26.2,4.0,54.4,True
+L0214,Instructor-led,Capstone,43.4,2.0,63.4,True
+L0215,Returning learners,Getting Started,26.4,3.0,71.8,True
+L0215,Returning learners,Core Concepts,30.8,1.0,62.6,True
+L0215,Returning learners,Data Skills,18.0,5.0,74.5,True
+L0215,Returning learners,Applied Practice,37.7,3.0,64.9,True
+L0215,Returning learners,Knowledge Check,45.4,3.0,61.5,False
+L0215,Returning learners,Capstone,24.6,5.0,86.7,True
+L0216,Self-paced,Getting Started,33.6,2.0,60.7,False
+L0216,Self-paced,Core Concepts,41.1,6.0,73.1,False
+L0216,Self-paced,Data Skills,38.1,3.0,74.1,True
+L0216,Self-paced,Applied Practice,,4.0,72.7,True
+L0216,Self-paced,Knowledge Check,38.0,5.0,59.1,True
+L0216,Self-paced,Capstone,46.3,1.0,83.8,False
+L0217,Self-paced,Getting Started,58.3,2.0,66.7,False
+L0217,Self-paced,Core Concepts,45.5,2.0,,True
+L0217,Self-paced,Data Skills,26.0,1.0,64.0,True
+L0217,Self-paced,Applied Practice,28.2,2.0,68.5,False
+L0217,Self-paced,Knowledge Check,35.9,1.0,80.6,True
+L0217,Self-paced,Capstone,33.0,2.0,67.4,True
+L0218,Self-paced,Getting Started,41.0,2.0,67.6,True
+L0218,Self-paced,Core Concepts,31.0,5.0,61.9,True
+L0218,Self-paced,Data Skills,53.9,4.0,56.9,False
+L0218,Self-paced,Applied Practice,34.9,2.0,56.1,True
+L0218,Self-paced,Knowledge Check,36.6,2.0,67.7,True
+L0218,Self-paced,Capstone,29.5,3.0,57.2,True
+L0219,Self-paced,Getting Started,,4.0,68.9,False
+L0219,Self-paced,Core Concepts,31.0,5.0,57.7,False
+L0219,Self-paced,Data Skills,31.5,2.0,54.2,True
+L0219,Self-paced,Applied Practice,38.8,6.0,50.5,False
+L0219,Self-paced,Knowledge Check,35.1,4.0,66.1,True
+L0219,Self-paced,Capstone,20.0,2.0,59.3,False
+L0220,Self-paced,Getting Started,70.6,3.0,69.8,True
+L0220,Self-paced,Core Concepts,41.0,2.0,68.2,True
+L0220,Self-paced,Data Skills,58.8,2.0,72.1,True
+L0220,Self-paced,Applied Practice,34.7,3.0,66.1,True
+L0220,Self-paced,Knowledge Check,35.2,6.0,73.3,True
+L0220,Self-paced,Capstone,22.9,1.0,58.6,True
+L0221,Instructor-led,Getting Started,31.6,4.0,55.7,True
+L0221,Instructor-led,Core Concepts,18.2,2.0,52.0,True
+L0221,Instructor-led,Data Skills,31.1,6.0,71.9,True
+L0221,Instructor-led,Applied Practice,46.6,3.0,62.8,True
+L0221,Instructor-led,Knowledge Check,39.5,1.0,62.3,True
+L0221,Instructor-led,Capstone,40.6,2.0,51.4,True
+L0222,Self-paced,Getting Started,16.8,1.0,,True
+L0222,Self-paced,Core Concepts,24.1,5.0,73.9,True
+L0222,Self-paced,Data Skills,49.4,3.0,79.9,True
+L0222,Self-paced,Applied Practice,54.6,1.0,76.8,True
+L0222,Self-paced,Knowledge Check,19.3,1.0,48.6,True
+L0222,Self-paced,Capstone,17.9,2.0,64.9,True
+L0223,Instructor-led,Getting Started,34.5,,66.9,True
+L0223,Instructor-led,Core Concepts,42.8,5.0,78.3,True
+L0223,Instructor-led,Data Skills,28.0,1.0,,True
+L0223,Instructor-led,Applied Practice,24.7,4.0,64.1,False
+L0223,Instructor-led,Knowledge Check,81.5,3.0,74.1,True
+L0223,Instructor-led,Capstone,52.9,1.0,73.4,True
+L0224,Self-paced,Getting Started,34.1,2.0,71.6,True
+L0224,Self-paced,Core Concepts,24.4,1.0,69.3,True
+L0224,Self-paced,Data Skills,27.7,4.0,78.7,False
+L0224,Self-paced,Applied Practice,25.4,,57.6,False
+L0224,Self-paced,Knowledge Check,58.9,1.0,81.4,False
+L0224,Self-paced,Capstone,20.9,2.0,47.2,True
+L0225,Instructor-led,Getting Started,27.9,2.0,64.3,True
+L0225,Instructor-led,Core Concepts,13.9,3.0,75.7,True
+L0225,Instructor-led,Data Skills,26.8,1.0,89.2,True
+L0225,Instructor-led,Applied Practice,36.6,1.0,73.0,True
+L0225,Instructor-led,Knowledge Check,12.1,1.0,73.9,True
+L0225,Instructor-led,Capstone,35.6,1.0,71.0,True
+L0226,Instructor-led,Getting Started,13.4,3.0,63.6,True
+L0226,Instructor-led,Core Concepts,28.5,3.0,84.0,True
+L0226,Instructor-led,Data Skills,54.6,3.0,73.8,False
+L0226,Instructor-led,Applied Practice,20.8,1.0,63.7,True
+L0226,Instructor-led,Knowledge Check,19.9,2.0,45.9,True
+L0226,Instructor-led,Capstone,,1.0,60.8,True
+L0227,Self-paced,Getting Started,36.9,2.0,63.4,False
+L0227,Self-paced,Core Concepts,28.5,2.0,67.1,True
+L0227,Self-paced,Data Skills,35.9,1.0,68.8,True
+L0227,Self-paced,Applied Practice,19.4,3.0,58.3,True
+L0227,Self-paced,Knowledge Check,80.4,2.0,62.1,True
+L0227,Self-paced,Capstone,62.2,,71.4,True
+L0228,Returning learners,Getting Started,56.2,2.0,88.7,True
+L0228,Returning learners,Core Concepts,21.5,1.0,67.9,True
+L0228,Returning learners,Data Skills,19.1,1.0,61.2,True
+L0228,Returning learners,Applied Practice,74.7,1.0,57.1,True
+L0228,Returning learners,Knowledge Check,18.6,4.0,63.6,True
+L0228,Returning learners,Capstone,39.6,2.0,55.2,True
+L0229,Instructor-led,Getting Started,18.6,5.0,63.4,True
+L0229,Instructor-led,Core Concepts,20.5,1.0,48.8,True
+L0229,Instructor-led,Data Skills,21.1,4.0,59.6,True
+L0229,Instructor-led,Applied Practice,18.1,1.0,,False
+L0229,Instructor-led,Knowledge Check,54.7,3.0,50.5,True
+L0229,Instructor-led,Capstone,31.5,7.0,62.8,True
+L0230,Instructor-led,Getting Started,40.5,1.0,65.7,True
+L0230,Instructor-led,Core Concepts,23.1,3.0,72.7,True
+L0230,Instructor-led,Data Skills,34.5,3.0,72.3,False
+L0230,Instructor-led,Applied Practice,29.6,1.0,61.6,True
+L0230,Instructor-led,Knowledge Check,18.6,3.0,66.4,True
+L0230,Instructor-led,Capstone,,1.0,69.7,True
+L0231,Self-paced,Getting Started,67.7,3.0,79.0,True
+L0231,Self-paced,Core Concepts,22.6,2.0,69.0,True
+L0231,Self-paced,Data Skills,59.1,3.0,73.8,True
+L0231,Self-paced,Applied Practice,46.3,2.0,71.7,True
+L0231,Self-paced,Knowledge Check,49.3,1.0,56.5,True
+L0231,Self-paced,Capstone,11.8,1.0,62.7,True
+L0232,Self-paced,Getting Started,11.8,1.0,71.5,False
+L0232,Self-paced,Core Concepts,28.9,4.0,97.4,True
+L0232,Self-paced,Data Skills,30.7,3.0,86.0,True
+L0232,Self-paced,Applied Practice,16.5,3.0,69.2,False
+L0232,Self-paced,Knowledge Check,17.2,1.0,45.0,False
+L0232,Self-paced,Capstone,28.7,3.0,92.3,True
+L0233,Instructor-led,Getting Started,20.7,2.0,84.5,True
+L0233,Instructor-led,Core Concepts,,3.0,71.6,False
+L0233,Instructor-led,Data Skills,43.9,2.0,66.1,True
+L0233,Instructor-led,Applied Practice,44.5,2.0,89.1,True
+L0233,Instructor-led,Knowledge Check,36.2,4.0,76.6,True
+L0233,Instructor-led,Capstone,,6.0,72.0,False
+L0234,Self-paced,Getting Started,29.7,5.0,100.0,True
+L0234,Self-paced,Core Concepts,40.8,2.0,67.7,True
+L0234,Self-paced,Data Skills,56.9,2.0,76.5,True
+L0234,Self-paced,Applied Practice,,4.0,100.0,True
+L0234,Self-paced,Knowledge Check,36.2,3.0,77.5,True
+L0234,Self-paced,Capstone,53.7,1.0,67.3,True
+L0235,Returning learners,Getting Started,50.3,3.0,95.4,True
+L0235,Returning learners,Core Concepts,25.1,7.0,87.6,True
+L0235,Returning learners,Data Skills,58.1,3.0,93.5,True
+L0235,Returning learners,Applied Practice,34.4,1.0,61.4,True
+L0235,Returning learners,Knowledge Check,34.2,2.0,82.2,True
+L0235,Returning learners,Capstone,41.4,2.0,91.1,True
+L0236,Returning learners,Getting Started,14.5,3.0,52.7,True
+L0236,Returning learners,Core Concepts,35.9,2.0,55.0,True
+L0236,Returning learners,Data Skills,,3.0,66.0,True
+L0236,Returning learners,Applied Practice,,4.0,69.4,True
+L0236,Returning learners,Knowledge Check,,2.0,52.8,True
+L0236,Returning learners,Capstone,41.9,4.0,57.9,True
+L0237,Self-paced,Getting Started,55.1,1.0,,True
+L0237,Self-paced,Core Concepts,15.2,2.0,64.6,False
+L0237,Self-paced,Data Skills,42.5,2.0,86.6,True
+L0237,Self-paced,Applied Practice,38.2,2.0,71.3,True
+L0237,Self-paced,Knowledge Check,27.4,4.0,65.1,True
+L0237,Self-paced,Capstone,29.1,2.0,74.8,True
+L0238,Instructor-led,Getting Started,35.7,3.0,84.8,True
+L0238,Instructor-led,Core Concepts,33.9,,64.1,True
+L0238,Instructor-led,Data Skills,34.3,3.0,85.2,True
+L0238,Instructor-led,Applied Practice,62.2,1.0,86.2,True
+L0238,Instructor-led,Knowledge Check,128.5,2.0,81.3,True
+L0238,Instructor-led,Capstone,28.9,3.0,77.8,True
+L0239,Instructor-led,Getting Started,49.6,3.0,69.6,True
+L0239,Instructor-led,Core Concepts,22.6,,57.0,True
+L0239,Instructor-led,Data Skills,11.8,3.0,84.6,True
+L0239,Instructor-led,Applied Practice,32.6,,59.3,False
+L0239,Instructor-led,Knowledge Check,35.3,2.0,77.8,True
+L0239,Instructor-led,Capstone,27.9,1.0,52.2,True
+L0240,Self-paced,Getting Started,40.9,3.0,87.8,True
+L0240,Self-paced,Core Concepts,27.3,1.0,96.8,True
+L0240,Self-paced,Data Skills,39.6,3.0,73.8,True
+L0240,Self-paced,Applied Practice,30.0,2.0,83.8,True
+L0240,Self-paced,Knowledge Check,40.5,2.0,80.4,True
+L0240,Self-paced,Capstone,55.0,3.0,83.9,True
+L0241,Self-paced,Getting Started,45.8,1.0,80.3,True
+L0241,Self-paced,Core Concepts,31.6,3.0,69.8,True
+L0241,Self-paced,Data Skills,59.5,1.0,92.3,True
+L0241,Self-paced,Applied Practice,31.9,2.0,87.4,True
+L0241,Self-paced,Knowledge Check,20.1,3.0,98.1,True
+L0241,Self-paced,Capstone,34.7,3.0,85.3,True
+L0242,Self-paced,Getting Started,53.2,1.0,83.1,True
+L0242,Self-paced,Core Concepts,51.7,1.0,97.4,True
+L0242,Self-paced,Data Skills,14.3,1.0,84.6,True
+L0242,Self-paced,Applied Practice,49.4,1.0,76.7,True
+L0242,Self-paced,Knowledge Check,69.2,4.0,83.8,True
+L0242,Self-paced,Capstone,39.7,3.0,69.7,True
+L0243,Self-paced,Getting Started,,2.0,77.8,True
+L0243,Self-paced,Core Concepts,36.9,8.0,74.2,True
+L0243,Self-paced,Data Skills,86.1,3.0,71.3,True
+L0243,Self-paced,Applied Practice,70.5,3.0,85.3,True
+L0243,Self-paced,Knowledge Check,,2.0,90.2,True
+L0243,Self-paced,Capstone,52.0,3.0,81.9,True
+L0244,Instructor-led,Getting Started,37.1,3.0,71.4,True
+L0244,Instructor-led,Core Concepts,,2.0,68.6,True
+L0244,Instructor-led,Data Skills,30.5,4.0,61.4,False
+L0244,Instructor-led,Applied Practice,93.6,1.0,68.7,True
+L0244,Instructor-led,Knowledge Check,27.0,3.0,57.1,True
+L0244,Instructor-led,Capstone,58.7,4.0,73.3,True
+L0245,Instructor-led,Getting Started,34.8,3.0,95.9,True
+L0245,Instructor-led,Core Concepts,28.5,2.0,42.8,True
+L0245,Instructor-led,Data Skills,37.3,3.0,52.5,True
+L0245,Instructor-led,Applied Practice,28.9,2.0,63.8,True
+L0245,Instructor-led,Knowledge Check,29.8,2.0,63.7,True
+L0245,Instructor-led,Capstone,42.0,1.0,,True
+L0246,Self-paced,Getting Started,35.9,1.0,76.5,True
+L0246,Self-paced,Core Concepts,44.1,4.0,67.0,True
+L0246,Self-paced,Data Skills,22.4,3.0,53.7,True
+L0246,Self-paced,Applied Practice,14.3,2.0,66.2,False
+L0246,Self-paced,Knowledge Check,17.4,4.0,72.1,True
+L0246,Self-paced,Capstone,33.8,3.0,,True
+L0247,Returning learners,Getting Started,40.8,1.0,77.0,True
+L0247,Returning learners,Core Concepts,21.0,3.0,49.4,True
+L0247,Returning learners,Data Skills,28.8,1.0,53.5,True
+L0247,Returning learners,Applied Practice,32.7,,76.7,True
+L0247,Returning learners,Knowledge Check,24.4,5.0,51.4,True
+L0247,Returning learners,Capstone,40.1,1.0,86.6,True
+L0248,Self-paced,Getting Started,34.9,4.0,67.7,True
+L0248,Self-paced,Core Concepts,38.0,3.0,62.5,True
+L0248,Self-paced,Data Skills,56.0,3.0,43.9,True
+L0248,Self-paced,Applied Practice,38.2,4.0,64.5,True
+L0248,Self-paced,Knowledge Check,25.2,4.0,40.7,False
+L0248,Self-paced,Capstone,32.4,3.0,39.0,True
+L0249,Self-paced,Getting Started,18.4,,76.1,True
+L0249,Self-paced,Core Concepts,39.2,2.0,80.9,True
+L0249,Self-paced,Data Skills,22.5,4.0,76.0,True
+L0249,Self-paced,Applied Practice,35.7,3.0,66.4,True
+L0249,Self-paced,Knowledge Check,29.7,2.0,66.4,True
+L0249,Self-paced,Capstone,31.8,2.0,85.9,True
+L0250,Self-paced,Getting Started,35.0,2.0,66.9,True
+L0250,Self-paced,Core Concepts,37.6,1.0,76.8,True
+L0250,Self-paced,Data Skills,20.7,2.0,,False
+L0250,Self-paced,Applied Practice,31.8,2.0,76.8,True
+L0250,Self-paced,Knowledge Check,28.7,2.0,82.2,False
+L0250,Self-paced,Capstone,30.3,2.0,85.7,True
+L0251,Self-paced,Getting Started,38.8,5.0,77.0,True
+L0251,Self-paced,Core Concepts,49.4,1.0,87.7,True
+L0251,Self-paced,Data Skills,45.0,3.0,95.1,True
+L0251,Self-paced,Applied Practice,29.8,5.0,82.2,True
+L0251,Self-paced,Knowledge Check,49.6,3.0,82.2,True
+L0251,Self-paced,Capstone,42.8,1.0,58.2,False
+L0252,Returning learners,Getting Started,27.7,2.0,60.3,True
+L0252,Returning learners,Core Concepts,82.0,1.0,88.9,True
+L0252,Returning learners,Data Skills,25.3,4.0,39.7,True
+L0252,Returning learners,Applied Practice,39.9,3.0,67.4,True
+L0252,Returning learners,Knowledge Check,27.3,1.0,67.8,True
+L0252,Returning learners,Capstone,76.1,1.0,88.2,True
+L0253,Instructor-led,Getting Started,29.0,4.0,,True
+L0253,Instructor-led,Core Concepts,29.9,1.0,42.6,False
+L0253,Instructor-led,Data Skills,,4.0,50.3,True
+L0253,Instructor-led,Applied Practice,27.3,5.0,74.6,False
+L0253,Instructor-led,Knowledge Check,28.2,5.0,61.7,True
+L0253,Instructor-led,Capstone,41.2,3.0,53.8,False
+L0254,Self-paced,Getting Started,9.5,2.0,78.5,False
+L0254,Self-paced,Core Concepts,18.6,4.0,66.5,True
+L0254,Self-paced,Data Skills,38.0,5.0,55.2,False
+L0254,Self-paced,Applied Practice,,5.0,69.1,True
+L0254,Self-paced,Knowledge Check,31.4,1.0,60.1,False
+L0254,Self-paced,Capstone,14.0,4.0,55.2,False
+L0255,Returning learners,Getting Started,24.0,3.0,63.7,True
+L0255,Returning learners,Core Concepts,30.6,2.0,68.2,True
+L0255,Returning learners,Data Skills,47.8,9.0,73.6,False
+L0255,Returning learners,Applied Practice,35.9,5.0,57.3,True
+L0255,Returning learners,Knowledge Check,36.9,5.0,69.5,True
+L0255,Returning learners,Capstone,39.8,1.0,67.8,True
+L0256,Returning learners,Getting Started,31.0,3.0,62.9,True
+L0256,Returning learners,Core Concepts,26.8,2.0,67.0,True
+L0256,Returning learners,Data Skills,22.6,1.0,66.3,False
+L0256,Returning learners,Applied Practice,50.3,1.0,45.6,True
+L0256,Returning learners,Knowledge Check,11.7,1.0,69.3,True
+L0256,Returning learners,Capstone,47.2,1.0,45.0,False
+L0257,Instructor-led,Getting Started,14.3,2.0,70.6,True
+L0257,Instructor-led,Core Concepts,41.5,2.0,82.2,True
+L0257,Instructor-led,Data Skills,15.3,3.0,67.6,True
+L0257,Instructor-led,Applied Practice,35.9,2.0,85.0,False
+L0257,Instructor-led,Knowledge Check,69.2,1.0,77.4,True
+L0257,Instructor-led,Capstone,31.0,2.0,66.0,False
+L0258,Instructor-led,Getting Started,31.4,2.0,77.4,True
+L0258,Instructor-led,Core Concepts,27.0,4.0,83.7,False
+L0258,Instructor-led,Data Skills,22.3,4.0,100.0,True
+L0258,Instructor-led,Applied Practice,22.2,3.0,92.4,True
+L0258,Instructor-led,Knowledge Check,52.4,5.0,70.2,True
+L0258,Instructor-led,Capstone,20.3,3.0,69.6,True
+L0259,Returning learners,Getting Started,67.0,3.0,68.3,True
+L0259,Returning learners,Core Concepts,22.7,2.0,80.8,True
+L0259,Returning learners,Data Skills,,2.0,92.1,True
+L0259,Returning learners,Applied Practice,112.4,1.0,83.8,True
+L0259,Returning learners,Knowledge Check,41.3,2.0,62.3,True
+L0259,Returning learners,Capstone,51.0,3.0,71.0,True
+L0260,Self-paced,Getting Started,67.5,2.0,60.6,False
+L0260,Self-paced,Core Concepts,56.4,5.0,57.3,True
+L0260,Self-paced,Data Skills,,2.0,71.4,True
+L0260,Self-paced,Applied Practice,31.8,2.0,63.7,True
+L0260,Self-paced,Knowledge Check,66.7,1.0,61.8,True
+L0260,Self-paced,Capstone,48.6,2.0,55.2,False
+L0261,Instructor-led,Getting Started,41.0,4.0,83.6,True
+L0261,Instructor-led,Core Concepts,43.2,1.0,64.5,True
+L0261,Instructor-led,Data Skills,25.0,2.0,58.6,False
+L0261,Instructor-led,Applied Practice,24.8,,58.5,True
+L0261,Instructor-led,Knowledge Check,28.6,1.0,78.6,True
+L0261,Instructor-led,Capstone,36.6,2.0,83.7,True
+L0262,Instructor-led,Getting Started,15.3,2.0,46.2,True
+L0262,Instructor-led,Core Concepts,29.7,,61.2,False
+L0262,Instructor-led,Data Skills,24.8,,50.9,True
+L0262,Instructor-led,Applied Practice,57.9,3.0,54.9,False
+L0262,Instructor-led,Knowledge Check,66.0,3.0,,True
+L0262,Instructor-led,Capstone,27.4,2.0,54.0,True
+L0263,Instructor-led,Getting Started,22.9,2.0,54.6,True
+L0263,Instructor-led,Core Concepts,28.1,3.0,65.7,True
+L0263,Instructor-led,Data Skills,,1.0,41.8,True
+L0263,Instructor-led,Applied Practice,100.5,1.0,70.3,True
+L0263,Instructor-led,Knowledge Check,13.5,3.0,45.3,True
+L0263,Instructor-led,Capstone,40.9,5.0,68.3,True
+L0264,Self-paced,Getting Started,31.8,2.0,,True
+L0264,Self-paced,Core Concepts,55.0,4.0,98.5,True
+L0264,Self-paced,Data Skills,23.5,1.0,,True
+L0264,Self-paced,Applied Practice,34.0,3.0,76.7,True
+L0264,Self-paced,Knowledge Check,47.8,4.0,68.9,True
+L0264,Self-paced,Capstone,36.6,3.0,80.9,True
+L0265,Self-paced,Getting Started,30.0,1.0,59.1,True
+L0265,Self-paced,Core Concepts,63.0,2.0,75.2,True
+L0265,Self-paced,Data Skills,23.0,2.0,66.3,True
+L0265,Self-paced,Applied Practice,68.5,4.0,92.7,True
+L0265,Self-paced,Knowledge Check,26.6,3.0,61.2,True
+L0265,Self-paced,Capstone,23.0,3.0,53.6,True
+L0266,Returning learners,Getting Started,27.3,3.0,71.1,True
+L0266,Returning learners,Core Concepts,65.8,1.0,77.6,False
+L0266,Returning learners,Data Skills,,1.0,68.4,True
+L0266,Returning learners,Applied Practice,44.9,3.0,,True
+L0266,Returning learners,Knowledge Check,37.9,1.0,66.2,True
+L0266,Returning learners,Capstone,68.0,5.0,44.7,True
+L0267,Returning learners,Getting Started,,2.0,67.3,True
+L0267,Returning learners,Core Concepts,24.1,3.0,62.1,True
+L0267,Returning learners,Data Skills,,1.0,70.9,True
+L0267,Returning learners,Applied Practice,34.4,5.0,46.8,False
+L0267,Returning learners,Knowledge Check,30.4,2.0,58.2,False
+L0267,Returning learners,Capstone,41.0,5.0,44.5,True
+L0268,Self-paced,Getting Started,39.1,1.0,72.9,True
+L0268,Self-paced,Core Concepts,13.4,3.0,50.8,True
+L0268,Self-paced,Data Skills,27.6,4.0,,True
+L0268,Self-paced,Applied Practice,,3.0,73.0,False
+L0268,Self-paced,Knowledge Check,35.2,3.0,55.4,True
+L0268,Self-paced,Capstone,21.0,4.0,53.3,True
+L0269,Instructor-led,Getting Started,37.3,2.0,78.3,True
+L0269,Instructor-led,Core Concepts,39.7,3.0,70.0,True
+L0269,Instructor-led,Data Skills,24.2,1.0,79.9,True
+L0269,Instructor-led,Applied Practice,51.0,9.0,57.3,True
+L0269,Instructor-led,Knowledge Check,30.7,1.0,90.1,True
+L0269,Instructor-led,Capstone,58.1,2.0,61.5,True
+L0270,Instructor-led,Getting Started,,,76.3,True
+L0270,Instructor-led,Core Concepts,33.1,3.0,47.4,True
+L0270,Instructor-led,Data Skills,34.6,4.0,59.6,True
+L0270,Instructor-led,Applied Practice,32.3,2.0,80.0,True
+L0270,Instructor-led,Knowledge Check,50.7,2.0,60.1,True
+L0270,Instructor-led,Capstone,50.8,4.0,56.7,False
+L0271,Self-paced,Getting Started,,1.0,75.2,True
+L0271,Self-paced,Core Concepts,27.8,3.0,65.8,True
+L0271,Self-paced,Data Skills,26.6,4.0,67.0,True
+L0271,Self-paced,Applied Practice,48.2,8.0,60.9,True
+L0271,Self-paced,Knowledge Check,20.8,,63.0,True
+L0271,Self-paced,Capstone,30.9,2.0,67.8,True
+L0272,Self-paced,Getting Started,26.2,2.0,88.0,True
+L0272,Self-paced,Core Concepts,37.3,2.0,,True
+L0272,Self-paced,Data Skills,11.0,1.0,66.7,True
+L0272,Self-paced,Applied Practice,26.7,2.0,67.9,True
+L0272,Self-paced,Knowledge Check,25.3,1.0,79.2,True
+L0272,Self-paced,Capstone,18.5,4.0,63.0,True
+L0273,Self-paced,Getting Started,23.0,2.0,63.5,True
+L0273,Self-paced,Core Concepts,29.2,1.0,,False
+L0273,Self-paced,Data Skills,62.7,5.0,77.6,True
+L0273,Self-paced,Applied Practice,30.1,1.0,68.3,True
+L0273,Self-paced,Knowledge Check,28.2,6.0,41.1,False
+L0273,Self-paced,Capstone,73.6,2.0,60.9,True
+L0274,Instructor-led,Getting Started,,3.0,67.1,True
+L0274,Instructor-led,Core Concepts,18.3,3.0,62.7,True
+L0274,Instructor-led,Data Skills,24.2,3.0,95.0,True
+L0274,Instructor-led,Applied Practice,30.0,2.0,84.4,True
+L0274,Instructor-led,Knowledge Check,17.9,1.0,59.1,True
+L0274,Instructor-led,Capstone,34.6,1.0,73.1,False
+L0275,Self-paced,Getting Started,56.9,,74.8,True
+L0275,Self-paced,Core Concepts,35.6,5.0,80.0,True
+L0275,Self-paced,Data Skills,36.0,3.0,80.9,True
+L0275,Self-paced,Applied Practice,,3.0,78.8,True
+L0275,Self-paced,Knowledge Check,42.5,4.0,63.5,True
+L0275,Self-paced,Capstone,50.5,2.0,57.6,True
+L0276,Instructor-led,Getting Started,15.3,3.0,,True
+L0276,Instructor-led,Core Concepts,49.1,3.0,67.0,True
+L0276,Instructor-led,Data Skills,,4.0,57.8,False
+L0276,Instructor-led,Applied Practice,36.9,2.0,59.6,False
+L0276,Instructor-led,Knowledge Check,34.3,5.0,53.6,True
+L0276,Instructor-led,Capstone,65.5,4.0,64.6,True
+L0277,Instructor-led,Getting Started,23.5,3.0,66.4,True
+L0277,Instructor-led,Core Concepts,34.8,1.0,66.1,True
+L0277,Instructor-led,Data Skills,22.9,4.0,51.4,False
+L0277,Instructor-led,Applied Practice,63.2,2.0,65.5,True
+L0277,Instructor-led,Knowledge Check,49.2,3.0,73.8,True
+L0277,Instructor-led,Capstone,70.5,3.0,,True
+L0278,Returning learners,Getting Started,31.6,5.0,77.6,True
+L0278,Returning learners,Core Concepts,102.2,2.0,72.8,True
+L0278,Returning learners,Data Skills,51.2,1.0,73.3,True
+L0278,Returning learners,Applied Practice,11.8,4.0,65.7,True
+L0278,Returning learners,Knowledge Check,54.2,6.0,82.2,True
+L0278,Returning learners,Capstone,9.4,3.0,87.9,True
+L0279,Instructor-led,Getting Started,19.8,1.0,,False
+L0279,Instructor-led,Core Concepts,,3.0,70.2,False
+L0279,Instructor-led,Data Skills,29.8,2.0,71.0,False
+L0279,Instructor-led,Applied Practice,76.2,3.0,40.2,True
+L0279,Instructor-led,Knowledge Check,52.0,4.0,60.3,True
+L0279,Instructor-led,Capstone,27.0,4.0,57.6,False
+L0280,Self-paced,Getting Started,19.7,2.0,74.9,True
+L0280,Self-paced,Core Concepts,,1.0,73.7,False
+L0280,Self-paced,Data Skills,,1.0,65.5,False
+L0280,Self-paced,Applied Practice,32.2,4.0,78.0,False
+L0280,Self-paced,Knowledge Check,73.7,3.0,67.0,True
+L0280,Self-paced,Capstone,51.8,,77.6,True
+L0281,Self-paced,Getting Started,26.6,3.0,83.1,True
+L0281,Self-paced,Core Concepts,16.0,1.0,77.1,True
+L0281,Self-paced,Data Skills,34.5,3.0,75.5,True
+L0281,Self-paced,Applied Practice,23.3,,68.1,True
+L0281,Self-paced,Knowledge Check,34.2,1.0,84.6,True
+L0281,Self-paced,Capstone,37.5,2.0,,False
+L0282,Instructor-led,Getting Started,35.7,1.0,84.4,True
+L0282,Instructor-led,Core Concepts,44.5,1.0,95.0,True
+L0282,Instructor-led,Data Skills,27.4,1.0,57.4,True
+L0282,Instructor-led,Applied Practice,19.1,7.0,62.6,False
+L0282,Instructor-led,Knowledge Check,19.0,2.0,,False
+L0282,Instructor-led,Capstone,11.9,1.0,58.8,True
+L0283,Self-paced,Getting Started,40.3,2.0,,True
+L0283,Self-paced,Core Concepts,63.7,3.0,79.4,True
+L0283,Self-paced,Data Skills,27.9,1.0,66.4,True
+L0283,Self-paced,Applied Practice,40.3,1.0,82.7,True
+L0283,Self-paced,Knowledge Check,14.9,3.0,,True
+L0283,Self-paced,Capstone,26.6,2.0,47.1,False
+L0284,Self-paced,Getting Started,,3.0,56.0,True
+L0284,Self-paced,Core Concepts,76.8,5.0,57.5,False
+L0284,Self-paced,Data Skills,38.8,4.0,68.5,True
+L0284,Self-paced,Applied Practice,47.2,6.0,63.1,True
+L0284,Self-paced,Knowledge Check,,2.0,72.8,False
+L0284,Self-paced,Capstone,22.8,1.0,57.6,False
+L0285,Self-paced,Getting Started,28.0,1.0,82.2,True
+L0285,Self-paced,Core Concepts,30.6,1.0,88.5,True
+L0285,Self-paced,Data Skills,41.2,1.0,70.2,True
+L0285,Self-paced,Applied Practice,67.8,1.0,83.8,True
+L0285,Self-paced,Knowledge Check,41.6,1.0,76.4,True
+L0285,Self-paced,Capstone,52.9,3.0,86.7,True
+L0286,Self-paced,Getting Started,31.8,2.0,76.8,True
+L0286,Self-paced,Core Concepts,24.1,2.0,70.5,True
+L0286,Self-paced,Data Skills,,4.0,81.9,False
+L0286,Self-paced,Applied Practice,52.7,2.0,77.7,True
+L0286,Self-paced,Knowledge Check,20.8,3.0,,True
+L0286,Self-paced,Capstone,59.3,2.0,55.7,True
+L0287,Self-paced,Getting Started,19.3,4.0,87.4,True
+L0287,Self-paced,Core Concepts,12.0,2.0,87.7,True
+L0287,Self-paced,Data Skills,33.0,3.0,69.2,True
+L0287,Self-paced,Applied Practice,30.9,1.0,66.4,True
+L0287,Self-paced,Knowledge Check,59.3,3.0,68.7,True
+L0287,Self-paced,Capstone,29.3,3.0,62.3,True
+L0288,Self-paced,Getting Started,35.7,1.0,69.4,True
+L0288,Self-paced,Core Concepts,42.6,2.0,71.1,False
+L0288,Self-paced,Data Skills,132.8,3.0,62.4,True
+L0288,Self-paced,Applied Practice,71.4,3.0,60.0,True
+L0288,Self-paced,Knowledge Check,20.5,4.0,62.5,True
+L0288,Self-paced,Capstone,25.5,3.0,55.4,True
+L0289,Self-paced,Getting Started,33.6,3.0,78.3,True
+L0289,Self-paced,Core Concepts,27.6,1.0,86.3,False
+L0289,Self-paced,Data Skills,66.0,1.0,79.9,True
+L0289,Self-paced,Applied Practice,55.4,2.0,,True
+L0289,Self-paced,Knowledge Check,42.6,5.0,47.5,True
+L0289,Self-paced,Capstone,62.2,2.0,,True
+L0290,Returning learners,Getting Started,24.8,2.0,53.8,True
+L0290,Returning learners,Core Concepts,92.5,7.0,85.3,True
+L0290,Returning learners,Data Skills,,1.0,68.2,True
+L0290,Returning learners,Applied Practice,38.0,3.0,,True
+L0290,Returning learners,Knowledge Check,55.8,8.0,65.4,True
+L0290,Returning learners,Capstone,31.3,5.0,75.7,True
+L0291,Self-paced,Getting Started,51.0,3.0,87.9,True
+L0291,Self-paced,Core Concepts,22.1,1.0,66.6,True
+L0291,Self-paced,Data Skills,,3.0,60.8,True
+L0291,Self-paced,Applied Practice,28.0,3.0,79.4,True
+L0291,Self-paced,Knowledge Check,35.9,3.0,49.0,False
+L0291,Self-paced,Capstone,25.7,,66.9,True
+L0292,Returning learners,Getting Started,57.5,2.0,72.3,True
+L0292,Returning learners,Core Concepts,45.1,1.0,68.9,True
+L0292,Returning learners,Data Skills,64.1,1.0,67.7,True
+L0292,Returning learners,Applied Practice,39.3,1.0,60.4,False
+L0292,Returning learners,Knowledge Check,51.2,2.0,52.2,True
+L0292,Returning learners,Capstone,,7.0,61.0,True
+L0293,Self-paced,Getting Started,18.8,1.0,85.8,True
+L0293,Self-paced,Core Concepts,40.6,3.0,61.6,True
+L0293,Self-paced,Data Skills,,1.0,55.9,False
+L0293,Self-paced,Applied Practice,47.5,5.0,65.0,True
+L0293,Self-paced,Knowledge Check,28.2,1.0,72.9,True
+L0293,Self-paced,Capstone,35.9,5.0,80.5,True
+L0294,Instructor-led,Getting Started,,1.0,63.8,True
+L0294,Instructor-led,Core Concepts,30.9,3.0,56.5,True
+L0294,Instructor-led,Data Skills,24.5,1.0,57.4,True
+L0294,Instructor-led,Applied Practice,11.3,2.0,60.1,False
+L0294,Instructor-led,Knowledge Check,25.9,1.0,69.4,True
+L0294,Instructor-led,Capstone,28.2,3.0,61.8,False
+L0295,Instructor-led,Getting Started,28.8,4.0,71.5,True
+L0295,Instructor-led,Core Concepts,34.0,3.0,83.0,True
+L0295,Instructor-led,Data Skills,26.5,3.0,71.2,True
+L0295,Instructor-led,Applied Practice,39.8,2.0,70.9,True
+L0295,Instructor-led,Knowledge Check,42.9,2.0,73.9,True
+L0295,Instructor-led,Capstone,49.3,2.0,63.9,True
+L0296,Instructor-led,Getting Started,36.6,1.0,81.8,True
+L0296,Instructor-led,Core Concepts,35.7,1.0,64.1,True
+L0296,Instructor-led,Data Skills,18.9,5.0,72.5,True
+L0296,Instructor-led,Applied Practice,,1.0,59.2,True
+L0296,Instructor-led,Knowledge Check,33.9,4.0,69.2,True
+L0296,Instructor-led,Capstone,54.2,2.0,61.5,False
+L0297,Returning learners,Getting Started,19.5,3.0,71.1,True
+L0297,Returning learners,Core Concepts,39.4,2.0,84.7,True
+L0297,Returning learners,Data Skills,30.9,5.0,76.8,True
+L0297,Returning learners,Applied Practice,49.8,4.0,66.1,True
+L0297,Returning learners,Knowledge Check,22.3,6.0,57.2,True
+L0297,Returning learners,Capstone,15.3,5.0,75.4,True
+L0298,Self-paced,Getting Started,35.8,2.0,97.7,True
+L0298,Self-paced,Core Concepts,26.0,5.0,100.0,True
+L0298,Self-paced,Data Skills,21.9,3.0,90.7,True
+L0298,Self-paced,Applied Practice,47.4,3.0,85.3,True
+L0298,Self-paced,Knowledge Check,38.3,2.0,78.3,False
+L0298,Self-paced,Capstone,79.4,1.0,80.3,False
+L0299,Instructor-led,Getting Started,,1.0,76.3,True
+L0299,Instructor-led,Core Concepts,59.2,1.0,85.0,True
+L0299,Instructor-led,Data Skills,31.0,4.0,59.8,True
+L0299,Instructor-led,Applied Practice,32.5,2.0,73.2,True
+L0299,Instructor-led,Knowledge Check,28.3,2.0,,False
+L0299,Instructor-led,Capstone,63.5,5.0,70.9,False
+L0300,Self-paced,Getting Started,29.8,2.0,73.4,False
+L0300,Self-paced,Core Concepts,27.3,,84.0,True
+L0300,Self-paced,Data Skills,17.8,2.0,85.2,True
+L0300,Self-paced,Applied Practice,,5.0,66.8,False
+L0300,Self-paced,Knowledge Check,45.9,1.0,67.8,True
+L0300,Self-paced,Capstone,32.0,3.0,64.1,True
+L0301,Instructor-led,Getting Started,46.4,,86.5,True
+L0301,Instructor-led,Core Concepts,41.8,5.0,82.7,True
+L0301,Instructor-led,Data Skills,29.1,2.0,51.2,False
+L0301,Instructor-led,Applied Practice,25.0,5.0,65.6,True
+L0301,Instructor-led,Knowledge Check,56.4,1.0,51.3,True
+L0301,Instructor-led,Capstone,28.3,2.0,37.7,True
+L0302,Instructor-led,Getting Started,77.9,2.0,,True
+L0302,Instructor-led,Core Concepts,23.6,2.0,73.3,True
+L0302,Instructor-led,Data Skills,19.0,1.0,58.6,True
+L0302,Instructor-led,Applied Practice,41.2,1.0,59.8,True
+L0302,Instructor-led,Knowledge Check,42.8,6.0,60.5,False
+L0302,Instructor-led,Capstone,80.9,5.0,65.2,True
+L0303,Self-paced,Getting Started,47.1,1.0,64.9,True
+L0303,Self-paced,Core Concepts,19.9,4.0,85.6,True
+L0303,Self-paced,Data Skills,19.2,,67.2,False
+L0303,Self-paced,Applied Practice,,3.0,78.2,True
+L0303,Self-paced,Knowledge Check,33.1,1.0,58.0,True
+L0303,Self-paced,Capstone,,1.0,81.6,False
+L0304,Self-paced,Getting Started,47.0,1.0,59.5,True
+L0304,Self-paced,Core Concepts,49.5,1.0,85.6,True
+L0304,Self-paced,Data Skills,38.5,3.0,84.4,True
+L0304,Self-paced,Applied Practice,,1.0,95.0,True
+L0304,Self-paced,Knowledge Check,49.6,1.0,81.6,True
+L0304,Self-paced,Capstone,36.0,2.0,100.0,True
+L0305,Self-paced,Getting Started,55.9,1.0,72.8,True
+L0305,Self-paced,Core Concepts,146.7,6.0,72.5,True
+L0305,Self-paced,Data Skills,42.9,4.0,79.3,True
+L0305,Self-paced,Applied Practice,164.0,9.0,66.9,True
+L0305,Self-paced,Knowledge Check,74.2,6.0,72.4,True
+L0305,Self-paced,Capstone,44.6,1.0,66.5,True
+L0306,Instructor-led,Getting Started,46.9,1.0,87.0,True
+L0306,Instructor-led,Core Concepts,58.9,1.0,90.0,True
+L0306,Instructor-led,Data Skills,28.1,3.0,83.9,True
+L0306,Instructor-led,Applied Practice,43.8,1.0,64.8,True
+L0306,Instructor-led,Knowledge Check,28.0,5.0,79.3,True
+L0306,Instructor-led,Capstone,21.5,1.0,76.6,True
+L0307,Self-paced,Getting Started,23.9,1.0,57.2,True
+L0307,Self-paced,Core Concepts,17.6,1.0,81.0,True
+L0307,Self-paced,Data Skills,55.4,2.0,77.4,True
+L0307,Self-paced,Applied Practice,51.7,2.0,73.6,True
+L0307,Self-paced,Knowledge Check,27.3,2.0,61.7,True
+L0307,Self-paced,Capstone,59.7,3.0,74.0,True
+L0308,Instructor-led,Getting Started,27.8,,72.4,True
+L0308,Instructor-led,Core Concepts,25.4,1.0,,True
+L0308,Instructor-led,Data Skills,35.0,2.0,54.0,True
+L0308,Instructor-led,Applied Practice,80.7,8.0,41.5,True
+L0308,Instructor-led,Knowledge Check,42.9,3.0,67.0,True
+L0308,Instructor-led,Capstone,27.2,3.0,53.0,False
+L0309,Instructor-led,Getting Started,92.9,4.0,74.3,True
+L0309,Instructor-led,Core Concepts,61.8,2.0,60.0,True
+L0309,Instructor-led,Data Skills,32.4,4.0,73.7,True
+L0309,Instructor-led,Applied Practice,50.2,1.0,58.3,True
+L0309,Instructor-led,Knowledge Check,50.2,5.0,80.1,True
+L0309,Instructor-led,Capstone,18.7,6.0,47.5,True
+L0310,Self-paced,Getting Started,,2.0,57.7,True
+L0310,Self-paced,Core Concepts,34.9,2.0,64.2,True
+L0310,Self-paced,Data Skills,15.7,4.0,61.4,False
+L0310,Self-paced,Applied Practice,40.6,2.0,63.2,True
+L0310,Self-paced,Knowledge Check,22.6,2.0,50.4,True
+L0310,Self-paced,Capstone,,1.0,52.9,False
+L0311,Returning learners,Getting Started,41.6,4.0,79.1,True
+L0311,Returning learners,Core Concepts,43.6,3.0,64.8,True
+L0311,Returning learners,Data Skills,85.8,1.0,77.3,True
+L0311,Returning learners,Applied Practice,43.8,2.0,53.9,True
+L0311,Returning learners,Knowledge Check,47.3,3.0,48.4,True
+L0311,Returning learners,Capstone,51.0,2.0,58.6,False
+L0312,Instructor-led,Getting Started,36.6,1.0,75.6,True
+L0312,Instructor-led,Core Concepts,31.0,5.0,,True
+L0312,Instructor-led,Data Skills,18.7,,81.5,True
+L0312,Instructor-led,Applied Practice,55.0,4.0,72.5,True
+L0312,Instructor-led,Knowledge Check,30.0,2.0,73.1,True
+L0312,Instructor-led,Capstone,45.2,1.0,70.8,True
+L0313,Instructor-led,Getting Started,26.5,3.0,48.5,True
+L0313,Instructor-led,Core Concepts,50.3,2.0,58.1,True
+L0313,Instructor-led,Data Skills,31.7,2.0,62.4,True
+L0313,Instructor-led,Applied Practice,20.8,2.0,79.3,True
+L0313,Instructor-led,Knowledge Check,52.9,1.0,57.4,True
+L0313,Instructor-led,Capstone,42.4,3.0,54.3,True
+L0314,Self-paced,Getting Started,23.1,3.0,72.2,True
+L0314,Self-paced,Core Concepts,40.6,1.0,65.7,True
+L0314,Self-paced,Data Skills,19.0,3.0,77.4,True
+L0314,Self-paced,Applied Practice,36.3,3.0,57.3,True
+L0314,Self-paced,Knowledge Check,16.0,4.0,52.6,True
+L0314,Self-paced,Capstone,20.3,,65.8,True
+L0315,Self-paced,Getting Started,46.6,1.0,83.9,True
+L0315,Self-paced,Core Concepts,,2.0,60.3,True
+L0315,Self-paced,Data Skills,20.9,,75.9,True
+L0315,Self-paced,Applied Practice,37.0,3.0,84.1,True
+L0315,Self-paced,Knowledge Check,32.4,1.0,82.9,True
+L0315,Self-paced,Capstone,41.6,4.0,,True
+L0316,Self-paced,Getting Started,17.6,3.0,89.1,True
+L0316,Self-paced,Core Concepts,54.9,3.0,57.6,True
+L0316,Self-paced,Data Skills,60.5,,,True
+L0316,Self-paced,Applied Practice,31.5,1.0,62.5,True
+L0316,Self-paced,Knowledge Check,34.5,4.0,60.0,False
+L0316,Self-paced,Capstone,79.8,2.0,66.8,True
+L0317,Instructor-led,Getting Started,16.2,3.0,,True
+L0317,Instructor-led,Core Concepts,14.7,2.0,84.6,True
+L0317,Instructor-led,Data Skills,34.3,1.0,66.0,False
+L0317,Instructor-led,Applied Practice,45.4,3.0,72.4,True
+L0317,Instructor-led,Knowledge Check,64.1,2.0,71.1,True
+L0317,Instructor-led,Capstone,57.1,5.0,76.1,True
+L0318,Self-paced,Getting Started,67.7,2.0,72.8,True
+L0318,Self-paced,Core Concepts,22.3,3.0,77.3,False
+L0318,Self-paced,Data Skills,42.1,2.0,72.8,True
+L0318,Self-paced,Applied Practice,33.4,4.0,54.2,True
+L0318,Self-paced,Knowledge Check,26.1,4.0,78.6,True
+L0318,Self-paced,Capstone,26.3,3.0,73.0,True
+L0319,Self-paced,Getting Started,39.3,1.0,100.0,True
+L0319,Self-paced,Core Concepts,69.3,4.0,66.5,True
+L0319,Self-paced,Data Skills,39.9,5.0,99.8,True
+L0319,Self-paced,Applied Practice,30.6,3.0,82.2,True
+L0319,Self-paced,Knowledge Check,73.9,5.0,100.0,True
+L0319,Self-paced,Capstone,73.0,5.0,87.2,True
+L0320,Instructor-led,Getting Started,58.9,2.0,74.9,True
+L0320,Instructor-led,Core Concepts,56.4,2.0,61.7,True
+L0320,Instructor-led,Data Skills,41.5,2.0,65.5,True
+L0320,Instructor-led,Applied Practice,57.7,2.0,78.0,True
+L0320,Instructor-led,Knowledge Check,25.9,1.0,45.8,False
+L0320,Instructor-led,Capstone,18.0,1.0,48.1,True
+L0321,Self-paced,Getting Started,55.0,3.0,63.0,True
+L0321,Self-paced,Core Concepts,34.2,1.0,65.2,False
+L0321,Self-paced,Data Skills,40.9,5.0,79.1,True
+L0321,Self-paced,Applied Practice,34.7,1.0,57.4,True
+L0321,Self-paced,Knowledge Check,23.1,4.0,59.9,True
+L0321,Self-paced,Capstone,36.8,,64.1,False
+L0322,Self-paced,Getting Started,41.6,3.0,77.4,True
+L0322,Self-paced,Core Concepts,24.4,2.0,77.2,True
+L0322,Self-paced,Data Skills,20.1,3.0,79.7,True
+L0322,Self-paced,Applied Practice,33.4,3.0,67.0,True
+L0322,Self-paced,Knowledge Check,63.1,1.0,77.5,True
+L0322,Self-paced,Capstone,74.1,1.0,67.0,True
+L0323,Self-paced,Getting Started,30.2,1.0,82.3,True
+L0323,Self-paced,Core Concepts,20.1,3.0,,True
+L0323,Self-paced,Data Skills,29.7,1.0,70.7,True
+L0323,Self-paced,Applied Practice,66.9,3.0,74.0,True
+L0323,Self-paced,Knowledge Check,52.9,3.0,55.5,True
+L0323,Self-paced,Capstone,19.4,5.0,82.7,True
+L0324,Self-paced,Getting Started,22.6,4.0,73.2,True
+L0324,Self-paced,Core Concepts,71.5,4.0,77.0,True
+L0324,Self-paced,Data Skills,17.9,1.0,72.6,False
+L0324,Self-paced,Applied Practice,36.7,3.0,,True
+L0324,Self-paced,Knowledge Check,29.7,4.0,58.5,True
+L0324,Self-paced,Capstone,36.0,1.0,56.4,True
+L0325,Self-paced,Getting Started,68.7,,67.6,True
+L0325,Self-paced,Core Concepts,27.1,3.0,71.3,True
+L0325,Self-paced,Data Skills,25.5,2.0,62.5,True
+L0325,Self-paced,Applied Practice,48.8,3.0,89.5,True
+L0325,Self-paced,Knowledge Check,15.2,,51.7,False
+L0325,Self-paced,Capstone,23.2,2.0,59.1,True
+L0326,Self-paced,Getting Started,28.6,1.0,59.0,True
+L0326,Self-paced,Core Concepts,53.7,2.0,90.8,False
+L0326,Self-paced,Data Skills,31.7,4.0,64.3,True
+L0326,Self-paced,Applied Practice,67.6,2.0,68.5,True
+L0326,Self-paced,Knowledge Check,28.7,2.0,84.8,True
+L0326,Self-paced,Capstone,18.0,3.0,59.2,True
+L0327,Returning learners,Getting Started,33.0,,74.8,True
+L0327,Returning learners,Core Concepts,32.3,3.0,62.3,True
+L0327,Returning learners,Data Skills,64.2,4.0,67.4,True
+L0327,Returning learners,Applied Practice,21.1,2.0,,False
+L0327,Returning learners,Knowledge Check,26.7,3.0,58.1,False
+L0327,Returning learners,Capstone,45.9,2.0,61.9,True
+L0328,Instructor-led,Getting Started,22.7,,,False
+L0328,Instructor-led,Core Concepts,20.3,2.0,57.2,True
+L0328,Instructor-led,Data Skills,44.8,2.0,82.3,True
+L0328,Instructor-led,Applied Practice,57.2,4.0,58.6,True
+L0328,Instructor-led,Knowledge Check,26.8,4.0,71.5,True
+L0328,Instructor-led,Capstone,40.8,2.0,41.9,False
+L0329,Self-paced,Getting Started,34.0,3.0,71.3,True
+L0329,Self-paced,Core Concepts,13.5,4.0,66.8,True
+L0329,Self-paced,Data Skills,24.4,1.0,55.6,False
+L0329,Self-paced,Applied Practice,22.7,1.0,65.8,True
+L0329,Self-paced,Knowledge Check,41.7,1.0,83.5,True
+L0329,Self-paced,Capstone,62.6,2.0,67.6,True
+L0330,Instructor-led,Getting Started,20.3,3.0,100.0,True
+L0330,Instructor-led,Core Concepts,26.5,4.0,73.7,True
+L0330,Instructor-led,Data Skills,36.9,1.0,,False
+L0330,Instructor-led,Applied Practice,15.3,1.0,88.2,True
+L0330,Instructor-led,Knowledge Check,33.7,1.0,77.2,True
+L0330,Instructor-led,Capstone,33.9,2.0,78.5,True
+L0331,Self-paced,Getting Started,52.2,5.0,77.8,True
+L0331,Self-paced,Core Concepts,32.6,1.0,61.1,True
+L0331,Self-paced,Data Skills,34.1,1.0,52.7,True
+L0331,Self-paced,Applied Practice,26.2,2.0,71.1,True
+L0331,Self-paced,Knowledge Check,48.4,5.0,61.5,True
+L0331,Self-paced,Capstone,27.7,5.0,58.1,False
+L0332,Instructor-led,Getting Started,36.9,5.0,74.6,True
+L0332,Instructor-led,Core Concepts,35.9,1.0,97.2,True
+L0332,Instructor-led,Data Skills,37.1,2.0,83.1,False
+L0332,Instructor-led,Applied Practice,27.9,4.0,,False
+L0332,Instructor-led,Knowledge Check,32.4,2.0,52.9,True
+L0332,Instructor-led,Capstone,58.1,2.0,69.0,True
+L0333,Self-paced,Getting Started,30.3,1.0,63.7,False
+L0333,Self-paced,Core Concepts,47.4,1.0,71.0,True
+L0333,Self-paced,Data Skills,40.3,1.0,67.1,True
+L0333,Self-paced,Applied Practice,26.2,1.0,59.0,True
+L0333,Self-paced,Knowledge Check,45.2,1.0,77.0,True
+L0333,Self-paced,Capstone,46.0,3.0,70.0,True
+L0334,Instructor-led,Getting Started,25.0,1.0,42.7,True
+L0334,Instructor-led,Core Concepts,22.9,3.0,86.1,True
+L0334,Instructor-led,Data Skills,57.9,1.0,47.1,True
+L0334,Instructor-led,Applied Practice,57.7,1.0,,True
+L0334,Instructor-led,Knowledge Check,26.0,1.0,,True
+L0334,Instructor-led,Capstone,58.9,2.0,36.5,True
+L0335,Returning learners,Getting Started,64.6,1.0,62.6,True
+L0335,Returning learners,Core Concepts,41.6,1.0,57.7,True
+L0335,Returning learners,Data Skills,16.5,1.0,58.6,True
+L0335,Returning learners,Applied Practice,41.6,4.0,78.6,True
+L0335,Returning learners,Knowledge Check,29.7,3.0,54.4,True
+L0335,Returning learners,Capstone,61.1,3.0,61.0,True
+L0336,Returning learners,Getting Started,24.8,1.0,69.1,True
+L0336,Returning learners,Core Concepts,20.1,3.0,50.8,True
+L0336,Returning learners,Data Skills,16.3,2.0,88.1,True
+L0336,Returning learners,Applied Practice,25.0,1.0,73.2,True
+L0336,Returning learners,Knowledge Check,24.0,2.0,,True
+L0336,Returning learners,Capstone,61.8,3.0,53.2,True
+L0337,Instructor-led,Getting Started,25.3,5.0,62.8,True
+L0337,Instructor-led,Core Concepts,37.1,2.0,69.5,False
+L0337,Instructor-led,Data Skills,,1.0,81.9,True
+L0337,Instructor-led,Applied Practice,25.6,5.0,82.8,False
+L0337,Instructor-led,Knowledge Check,39.0,2.0,78.4,True
+L0337,Instructor-led,Capstone,43.1,4.0,88.0,True
+L0338,Self-paced,Getting Started,21.9,2.0,71.1,True
+L0338,Self-paced,Core Concepts,31.3,4.0,66.9,True
+L0338,Self-paced,Data Skills,22.0,1.0,60.3,False
+L0338,Self-paced,Applied Practice,34.9,1.0,70.3,True
+L0338,Self-paced,Knowledge Check,49.0,4.0,55.8,True
+L0338,Self-paced,Capstone,36.1,1.0,69.1,True
+L0339,Self-paced,Getting Started,21.5,3.0,69.8,True
+L0339,Self-paced,Core Concepts,63.9,6.0,63.2,True
+L0339,Self-paced,Data Skills,29.3,3.0,56.3,True
+L0339,Self-paced,Applied Practice,37.5,2.0,64.5,True
+L0339,Self-paced,Knowledge Check,34.1,4.0,70.5,True
+L0339,Self-paced,Capstone,52.9,1.0,57.3,False
+L0340,Self-paced,Getting Started,43.8,2.0,66.1,True
+L0340,Self-paced,Core Concepts,22.1,3.0,52.8,True
+L0340,Self-paced,Data Skills,45.5,3.0,54.3,False
+L0340,Self-paced,Applied Practice,27.2,1.0,49.8,False
+L0340,Self-paced,Knowledge Check,44.8,2.0,58.4,True
+L0340,Self-paced,Capstone,37.7,2.0,44.0,True
+L0341,Self-paced,Getting Started,26.4,1.0,64.7,True
+L0341,Self-paced,Core Concepts,49.8,1.0,75.2,True
+L0341,Self-paced,Data Skills,20.1,1.0,,False
+L0341,Self-paced,Applied Practice,18.3,3.0,64.1,True
+L0341,Self-paced,Knowledge Check,40.7,4.0,50.3,True
+L0341,Self-paced,Capstone,,1.0,65.8,False
+L0342,Self-paced,Getting Started,26.2,3.0,60.7,True
+L0342,Self-paced,Core Concepts,,4.0,71.5,True
+L0342,Self-paced,Data Skills,18.5,5.0,70.4,True
+L0342,Self-paced,Applied Practice,38.4,1.0,65.0,False
+L0342,Self-paced,Knowledge Check,23.6,4.0,65.6,True
+L0342,Self-paced,Capstone,34.7,1.0,75.6,True
+L0343,Returning learners,Getting Started,13.6,1.0,88.9,True
+L0343,Returning learners,Core Concepts,14.9,3.0,91.1,True
+L0343,Returning learners,Data Skills,27.8,,68.0,True
+L0343,Returning learners,Applied Practice,13.5,1.0,64.6,False
+L0343,Returning learners,Knowledge Check,25.1,5.0,,False
+L0343,Returning learners,Capstone,50.1,2.0,55.1,True
+L0344,Self-paced,Getting Started,22.9,1.0,88.2,True
+L0344,Self-paced,Core Concepts,56.6,4.0,88.2,True
+L0344,Self-paced,Data Skills,81.2,2.0,,True
+L0344,Self-paced,Applied Practice,71.9,2.0,77.9,True
+L0344,Self-paced,Knowledge Check,34.7,7.0,79.3,True
+L0344,Self-paced,Capstone,48.6,4.0,85.3,True
+L0345,Self-paced,Getting Started,36.5,2.0,,True
+L0345,Self-paced,Core Concepts,51.7,1.0,78.6,True
+L0345,Self-paced,Data Skills,34.1,3.0,65.8,True
+L0345,Self-paced,Applied Practice,35.0,6.0,54.0,True
+L0345,Self-paced,Knowledge Check,23.1,1.0,76.9,True
+L0345,Self-paced,Capstone,32.7,2.0,,False
+L0346,Returning learners,Getting Started,33.5,,,True
+L0346,Returning learners,Core Concepts,17.3,2.0,46.9,True
+L0346,Returning learners,Data Skills,16.1,7.0,,True
+L0346,Returning learners,Applied Practice,,3.0,82.2,False
+L0346,Returning learners,Knowledge Check,81.3,2.0,,True
+L0346,Returning learners,Capstone,26.4,3.0,52.0,False
+L0347,Instructor-led,Getting Started,34.6,1.0,81.4,True
+L0347,Instructor-led,Core Concepts,66.7,3.0,91.0,True
+L0347,Instructor-led,Data Skills,31.0,1.0,51.2,False
+L0347,Instructor-led,Applied Practice,121.4,1.0,96.5,True
+L0347,Instructor-led,Knowledge Check,37.8,2.0,60.2,True
+L0347,Instructor-led,Capstone,27.8,2.0,58.8,True
+L0348,Self-paced,Getting Started,36.6,3.0,64.9,True
+L0348,Self-paced,Core Concepts,54.9,2.0,72.0,True
+L0348,Self-paced,Data Skills,29.7,4.0,49.1,True
+L0348,Self-paced,Applied Practice,26.5,1.0,62.1,True
+L0348,Self-paced,Knowledge Check,35.4,6.0,69.3,True
+L0348,Self-paced,Capstone,42.1,1.0,74.1,True
+L0349,Self-paced,Getting Started,36.1,2.0,52.2,False
+L0349,Self-paced,Core Concepts,33.6,1.0,53.5,True
+L0349,Self-paced,Data Skills,48.9,7.0,63.0,True
+L0349,Self-paced,Applied Practice,36.3,2.0,54.3,True
+L0349,Self-paced,Knowledge Check,39.5,3.0,48.2,True
+L0349,Self-paced,Capstone,24.3,1.0,44.7,False
+L0350,Instructor-led,Getting Started,54.6,3.0,87.3,False
+L0350,Instructor-led,Core Concepts,36.7,3.0,86.5,True
+L0350,Instructor-led,Data Skills,54.8,2.0,71.2,True
+L0350,Instructor-led,Applied Practice,48.9,2.0,90.8,True
+L0350,Instructor-led,Knowledge Check,28.6,4.0,76.6,True
+L0350,Instructor-led,Capstone,40.2,4.0,77.7,True
+L0351,Instructor-led,Getting Started,32.4,8.0,,True
+L0351,Instructor-led,Core Concepts,25.1,4.0,,False
+L0351,Instructor-led,Data Skills,37.5,1.0,59.5,True
+L0351,Instructor-led,Applied Practice,65.8,6.0,65.1,True
+L0351,Instructor-led,Knowledge Check,29.5,2.0,76.3,True
+L0351,Instructor-led,Capstone,36.5,2.0,75.3,True
+L0352,Self-paced,Getting Started,31.5,1.0,100.0,True
+L0352,Self-paced,Core Concepts,23.4,1.0,75.1,True
+L0352,Self-paced,Data Skills,21.4,2.0,77.7,True
+L0352,Self-paced,Applied Practice,54.4,1.0,98.0,True
+L0352,Self-paced,Knowledge Check,,2.0,75.8,True
+L0352,Self-paced,Capstone,25.1,4.0,69.7,True
+L0353,Instructor-led,Getting Started,72.5,1.0,80.7,True
+L0353,Instructor-led,Core Concepts,62.9,2.0,,True
+L0353,Instructor-led,Data Skills,36.9,3.0,,True
+L0353,Instructor-led,Applied Practice,31.1,6.0,72.9,False
+L0353,Instructor-led,Knowledge Check,35.4,4.0,82.4,True
+L0353,Instructor-led,Capstone,45.8,3.0,84.9,True
+L0354,Self-paced,Getting Started,17.9,1.0,69.0,False
+L0354,Self-paced,Core Concepts,74.1,3.0,72.4,True
+L0354,Self-paced,Data Skills,29.4,3.0,75.2,True
+L0354,Self-paced,Applied Practice,16.9,2.0,86.1,True
+L0354,Self-paced,Knowledge Check,38.7,6.0,58.3,True
+L0354,Self-paced,Capstone,53.2,3.0,74.9,True
+L0355,Instructor-led,Getting Started,25.9,5.0,81.5,True
+L0355,Instructor-led,Core Concepts,15.7,2.0,86.2,True
+L0355,Instructor-led,Data Skills,86.0,3.0,65.6,False
+L0355,Instructor-led,Applied Practice,43.6,,67.2,True
+L0355,Instructor-led,Knowledge Check,31.6,1.0,65.7,True
+L0355,Instructor-led,Capstone,52.0,5.0,64.1,False
+L0356,Returning learners,Getting Started,32.4,3.0,94.9,True
+L0356,Returning learners,Core Concepts,28.1,2.0,74.5,False
+L0356,Returning learners,Data Skills,28.4,7.0,79.5,True
+L0356,Returning learners,Applied Practice,72.3,4.0,97.3,False
+L0356,Returning learners,Knowledge Check,32.9,3.0,87.6,True
+L0356,Returning learners,Capstone,43.4,2.0,85.1,True
+L0357,Self-paced,Getting Started,26.5,3.0,56.5,True
+L0357,Self-paced,Core Concepts,20.8,3.0,77.3,True
+L0357,Self-paced,Data Skills,33.2,1.0,69.5,True
+L0357,Self-paced,Applied Practice,46.9,3.0,60.0,False
+L0357,Self-paced,Knowledge Check,73.3,5.0,62.3,False
+L0357,Self-paced,Capstone,,4.0,60.7,False
+L0358,Instructor-led,Getting Started,23.1,3.0,84.6,True
+L0358,Instructor-led,Core Concepts,21.5,,72.0,True
+L0358,Instructor-led,Data Skills,49.0,2.0,,True
+L0358,Instructor-led,Applied Practice,32.8,2.0,92.3,True
+L0358,Instructor-led,Knowledge Check,28.3,5.0,73.4,True
+L0358,Instructor-led,Capstone,38.5,3.0,70.1,False
+L0359,Self-paced,Getting Started,32.5,3.0,86.1,True
+L0359,Self-paced,Core Concepts,26.1,4.0,81.8,True
+L0359,Self-paced,Data Skills,50.0,3.0,75.0,True
+L0359,Self-paced,Applied Practice,23.6,1.0,72.0,True
+L0359,Self-paced,Knowledge Check,29.2,5.0,82.4,True
+L0359,Self-paced,Capstone,33.4,4.0,79.4,True
+L0360,Self-paced,Getting Started,34.9,2.0,83.9,True
+L0360,Self-paced,Core Concepts,16.5,2.0,71.4,True
+L0360,Self-paced,Data Skills,62.7,1.0,62.8,True
+L0360,Self-paced,Applied Practice,19.6,4.0,39.2,True
+L0360,Self-paced,Knowledge Check,37.1,3.0,68.6,True
+L0360,Self-paced,Capstone,27.9,4.0,53.5,True
+L0361,Self-paced,Getting Started,25.1,2.0,89.1,True
+L0361,Self-paced,Core Concepts,32.3,4.0,78.2,True
+L0361,Self-paced,Data Skills,38.9,6.0,95.7,False
+L0361,Self-paced,Applied Practice,32.9,5.0,100.0,True
+L0361,Self-paced,Knowledge Check,23.9,1.0,57.0,True
+L0361,Self-paced,Capstone,57.0,2.0,100.0,True
+L0362,Self-paced,Getting Started,20.8,2.0,62.5,True
+L0362,Self-paced,Core Concepts,37.4,1.0,53.5,True
+L0362,Self-paced,Data Skills,21.0,1.0,55.5,True
+L0362,Self-paced,Applied Practice,25.2,1.0,69.4,True
+L0362,Self-paced,Knowledge Check,47.5,1.0,64.4,True
+L0362,Self-paced,Capstone,40.5,3.0,65.5,True
+L0363,Self-paced,Getting Started,28.0,2.0,79.9,True
+L0363,Self-paced,Core Concepts,17.6,4.0,52.4,True
+L0363,Self-paced,Data Skills,21.9,2.0,56.9,False
+L0363,Self-paced,Applied Practice,26.8,1.0,61.9,True
+L0363,Self-paced,Knowledge Check,37.7,2.0,64.3,True
+L0363,Self-paced,Capstone,28.6,7.0,71.6,True
+L0364,Instructor-led,Getting Started,,2.0,70.4,True
+L0364,Instructor-led,Core Concepts,37.7,2.0,66.2,True
+L0364,Instructor-led,Data Skills,40.3,3.0,88.1,True
+L0364,Instructor-led,Applied Practice,46.0,1.0,66.3,True
+L0364,Instructor-led,Knowledge Check,51.7,5.0,55.3,True
+L0364,Instructor-led,Capstone,223.0,1.0,74.7,True
+L0365,Instructor-led,Getting Started,39.2,4.0,100.0,True
+L0365,Instructor-led,Core Concepts,62.1,1.0,100.0,True
+L0365,Instructor-led,Data Skills,26.4,2.0,85.1,True
+L0365,Instructor-led,Applied Practice,67.9,1.0,,True
+L0365,Instructor-led,Knowledge Check,27.1,2.0,89.0,True
+L0365,Instructor-led,Capstone,64.4,2.0,82.8,True
+L0366,Instructor-led,Getting Started,28.1,1.0,81.7,False
+L0366,Instructor-led,Core Concepts,28.4,1.0,41.6,True
+L0366,Instructor-led,Data Skills,26.2,2.0,49.8,True
+L0366,Instructor-led,Applied Practice,61.2,1.0,65.3,True
+L0366,Instructor-led,Knowledge Check,24.4,3.0,49.9,True
+L0366,Instructor-led,Capstone,32.6,3.0,62.8,False
+L0367,Returning learners,Getting Started,44.5,2.0,90.7,True
+L0367,Returning learners,Core Concepts,43.0,6.0,72.5,False
+L0367,Returning learners,Data Skills,51.1,2.0,65.8,True
+L0367,Returning learners,Applied Practice,33.0,2.0,72.6,False
+L0367,Returning learners,Knowledge Check,37.5,1.0,62.5,True
+L0367,Returning learners,Capstone,38.9,2.0,61.1,True
+L0368,Self-paced,Getting Started,15.5,4.0,74.5,True
+L0368,Self-paced,Core Concepts,22.8,1.0,73.0,True
+L0368,Self-paced,Data Skills,,3.0,78.3,True
+L0368,Self-paced,Applied Practice,27.3,2.0,58.9,True
+L0368,Self-paced,Knowledge Check,31.5,3.0,68.1,True
+L0368,Self-paced,Capstone,33.0,2.0,85.2,True
+L0369,Returning learners,Getting Started,33.4,3.0,48.5,True
+L0369,Returning learners,Core Concepts,33.6,2.0,63.1,True
+L0369,Returning learners,Data Skills,34.3,1.0,70.9,True
+L0369,Returning learners,Applied Practice,41.7,5.0,59.9,True
+L0369,Returning learners,Knowledge Check,28.8,1.0,56.2,True
+L0369,Returning learners,Capstone,37.4,,60.1,False
+L0370,Returning learners,Getting Started,56.2,2.0,82.5,True
+L0370,Returning learners,Core Concepts,30.4,4.0,67.0,True
+L0370,Returning learners,Data Skills,65.8,1.0,81.2,True
+L0370,Returning learners,Applied Practice,37.2,2.0,56.9,True
+L0370,Returning learners,Knowledge Check,47.4,3.0,41.0,True
+L0370,Returning learners,Capstone,64.0,4.0,54.7,True
+L0371,Self-paced,Getting Started,34.2,,,True
+L0371,Self-paced,Core Concepts,51.8,2.0,68.3,True
+L0371,Self-paced,Data Skills,37.7,1.0,61.3,True
+L0371,Self-paced,Applied Practice,22.8,1.0,59.0,True
+L0371,Self-paced,Knowledge Check,67.8,4.0,61.6,False
+L0371,Self-paced,Capstone,64.1,7.0,77.3,True
+L0372,Self-paced,Getting Started,43.3,1.0,56.2,True
+L0372,Self-paced,Core Concepts,43.5,,82.1,True
+L0372,Self-paced,Data Skills,39.8,6.0,70.5,True
+L0372,Self-paced,Applied Practice,60.8,1.0,51.0,True
+L0372,Self-paced,Knowledge Check,41.7,1.0,68.7,False
+L0372,Self-paced,Capstone,19.4,2.0,63.0,False
+L0373,Self-paced,Getting Started,26.7,1.0,73.2,True
+L0373,Self-paced,Core Concepts,71.0,1.0,,True
+L0373,Self-paced,Data Skills,,1.0,73.5,True
+L0373,Self-paced,Applied Practice,14.8,3.0,71.9,True
+L0373,Self-paced,Knowledge Check,47.6,3.0,76.7,True
+L0373,Self-paced,Capstone,67.8,2.0,53.6,True
+L0374,Instructor-led,Getting Started,40.4,2.0,81.4,True
+L0374,Instructor-led,Core Concepts,42.8,1.0,82.5,True
+L0374,Instructor-led,Data Skills,60.8,6.0,78.7,True
+L0374,Instructor-led,Applied Practice,20.5,1.0,78.7,True
+L0374,Instructor-led,Knowledge Check,16.8,3.0,,True
+L0374,Instructor-led,Capstone,43.0,2.0,67.9,True
+L0375,Instructor-led,Getting Started,42.4,4.0,,True
+L0375,Instructor-led,Core Concepts,63.1,1.0,,True
+L0375,Instructor-led,Data Skills,53.4,3.0,60.4,True
+L0375,Instructor-led,Applied Practice,42.2,3.0,77.9,False
+L0375,Instructor-led,Knowledge Check,31.1,3.0,78.0,True
+L0375,Instructor-led,Capstone,48.6,1.0,99.3,True
+L0376,Self-paced,Getting Started,38.3,2.0,77.0,True
+L0376,Self-paced,Core Concepts,45.9,3.0,69.6,False
+L0376,Self-paced,Data Skills,69.1,3.0,,True
+L0376,Self-paced,Applied Practice,17.1,4.0,54.6,True
+L0376,Self-paced,Knowledge Check,45.0,4.0,63.8,True
+L0376,Self-paced,Capstone,66.3,5.0,75.4,True
+L0377,Returning learners,Getting Started,48.1,4.0,,True
+L0377,Returning learners,Core Concepts,35.6,2.0,81.6,True
+L0377,Returning learners,Data Skills,57.3,2.0,55.0,True
+L0377,Returning learners,Applied Practice,17.7,1.0,64.0,True
+L0377,Returning learners,Knowledge Check,21.2,4.0,75.2,True
+L0377,Returning learners,Capstone,42.8,7.0,74.2,True
+L0378,Instructor-led,Getting Started,47.5,4.0,63.7,False
+L0378,Instructor-led,Core Concepts,37.9,1.0,78.9,True
+L0378,Instructor-led,Data Skills,27.9,2.0,,True
+L0378,Instructor-led,Applied Practice,10.9,5.0,,True
+L0378,Instructor-led,Knowledge Check,35.4,2.0,78.7,True
+L0378,Instructor-led,Capstone,34.9,4.0,60.8,True
+L0379,Self-paced,Getting Started,22.8,5.0,100.0,True
+L0379,Self-paced,Core Concepts,23.7,1.0,67.5,True
+L0379,Self-paced,Data Skills,26.5,3.0,61.3,True
+L0379,Self-paced,Applied Practice,49.9,1.0,83.4,True
+L0379,Self-paced,Knowledge Check,37.6,4.0,88.6,True
+L0379,Self-paced,Capstone,,1.0,70.4,True
+L0380,Instructor-led,Getting Started,26.3,5.0,,True
+L0380,Instructor-led,Core Concepts,37.1,2.0,74.4,True
+L0380,Instructor-led,Data Skills,21.8,4.0,69.2,True
+L0380,Instructor-led,Applied Practice,55.9,2.0,80.7,True
+L0380,Instructor-led,Knowledge Check,23.4,2.0,77.3,False
+L0380,Instructor-led,Capstone,28.0,4.0,77.7,True
+L0381,Self-paced,Getting Started,9.7,4.0,76.5,True
+L0381,Self-paced,Core Concepts,33.0,8.0,83.9,True
+L0381,Self-paced,Data Skills,,3.0,66.0,True
+L0381,Self-paced,Applied Practice,47.8,1.0,84.4,True
+L0381,Self-paced,Knowledge Check,17.7,5.0,76.1,False
+L0381,Self-paced,Capstone,47.6,4.0,,True
+L0382,Self-paced,Getting Started,14.0,1.0,73.9,True
+L0382,Self-paced,Core Concepts,26.2,3.0,,True
+L0382,Self-paced,Data Skills,23.4,2.0,39.4,True
+L0382,Self-paced,Applied Practice,35.3,2.0,63.6,True
+L0382,Self-paced,Knowledge Check,47.2,4.0,71.0,True
+L0382,Self-paced,Capstone,64.8,2.0,60.7,False
+L0383,Instructor-led,Getting Started,26.3,5.0,49.5,False
+L0383,Instructor-led,Core Concepts,20.3,1.0,,True
+L0383,Instructor-led,Data Skills,20.2,1.0,53.4,True
+L0383,Instructor-led,Applied Practice,117.9,3.0,47.7,True
+L0383,Instructor-led,Knowledge Check,56.9,2.0,47.4,False
+L0383,Instructor-led,Capstone,58.2,4.0,36.0,True
+L0384,Instructor-led,Getting Started,22.5,5.0,72.4,True
+L0384,Instructor-led,Core Concepts,39.7,1.0,68.8,False
+L0384,Instructor-led,Data Skills,46.3,3.0,65.3,True
+L0384,Instructor-led,Applied Practice,56.5,2.0,65.5,True
+L0384,Instructor-led,Knowledge Check,,3.0,71.9,False
+L0384,Instructor-led,Capstone,69.4,1.0,,True
+L0385,Returning learners,Getting Started,,,66.7,True
+L0385,Returning learners,Core Concepts,21.3,,68.9,True
+L0385,Returning learners,Data Skills,35.4,5.0,68.7,True
+L0385,Returning learners,Applied Practice,63.6,5.0,62.0,False
+L0385,Returning learners,Knowledge Check,20.6,1.0,65.5,False
+L0385,Returning learners,Capstone,32.4,1.0,66.3,False
+L0386,Instructor-led,Getting Started,63.0,2.0,95.2,True
+L0386,Instructor-led,Core Concepts,28.0,1.0,84.2,True
+L0386,Instructor-led,Data Skills,39.4,1.0,54.7,True
+L0386,Instructor-led,Applied Practice,35.9,1.0,65.8,True
+L0386,Instructor-led,Knowledge Check,26.8,3.0,84.4,True
+L0386,Instructor-led,Capstone,28.8,1.0,,True
+L0387,Self-paced,Getting Started,30.8,6.0,72.9,True
+L0387,Self-paced,Core Concepts,41.1,3.0,77.3,True
+L0387,Self-paced,Data Skills,18.7,2.0,61.2,False
+L0387,Self-paced,Applied Practice,30.2,1.0,62.3,True
+L0387,Self-paced,Knowledge Check,29.4,8.0,68.3,False
+L0387,Self-paced,Capstone,36.6,2.0,76.3,True
+L0388,Self-paced,Getting Started,11.0,1.0,70.4,False
+L0388,Self-paced,Core Concepts,83.1,3.0,74.3,True
+L0388,Self-paced,Data Skills,45.2,3.0,72.5,True
+L0388,Self-paced,Applied Practice,100.8,4.0,74.4,True
+L0388,Self-paced,Knowledge Check,31.8,6.0,60.7,False
+L0388,Self-paced,Capstone,29.7,5.0,74.4,True
+L0389,Self-paced,Getting Started,33.1,1.0,78.9,True
+L0389,Self-paced,Core Concepts,30.3,3.0,63.4,True
+L0389,Self-paced,Data Skills,32.3,2.0,62.2,True
+L0389,Self-paced,Applied Practice,,1.0,64.0,True
+L0389,Self-paced,Knowledge Check,45.7,1.0,61.4,True
+L0389,Self-paced,Capstone,35.9,2.0,72.1,True
+L0390,Self-paced,Getting Started,30.8,1.0,72.4,True
+L0390,Self-paced,Core Concepts,18.6,2.0,81.1,False
+L0390,Self-paced,Data Skills,26.6,2.0,62.0,False
+L0390,Self-paced,Applied Practice,29.5,1.0,77.9,True
+L0390,Self-paced,Knowledge Check,39.3,5.0,78.0,True
+L0390,Self-paced,Capstone,25.5,2.0,69.4,True
+L0391,Instructor-led,Getting Started,30.8,4.0,75.7,True
+L0391,Instructor-led,Core Concepts,29.9,1.0,72.0,True
+L0391,Instructor-led,Data Skills,19.9,3.0,90.8,True
+L0391,Instructor-led,Applied Practice,33.2,2.0,81.8,True
+L0391,Instructor-led,Knowledge Check,28.6,3.0,68.4,True
+L0391,Instructor-led,Capstone,31.4,1.0,77.2,False
+L0392,Self-paced,Getting Started,21.0,1.0,56.2,True
+L0392,Self-paced,Core Concepts,31.7,1.0,54.9,True
+L0392,Self-paced,Data Skills,20.5,1.0,59.7,True
+L0392,Self-paced,Applied Practice,45.9,2.0,39.7,True
+L0392,Self-paced,Knowledge Check,67.7,1.0,52.0,True
+L0392,Self-paced,Capstone,63.3,4.0,46.7,True
+L0393,Instructor-led,Getting Started,50.1,1.0,65.5,True
+L0393,Instructor-led,Core Concepts,47.1,2.0,64.2,True
+L0393,Instructor-led,Data Skills,23.7,2.0,54.1,False
+L0393,Instructor-led,Applied Practice,18.1,2.0,42.2,False
+L0393,Instructor-led,Knowledge Check,21.8,1.0,,False
+L0393,Instructor-led,Capstone,31.4,4.0,53.3,False
+L0394,Self-paced,Getting Started,24.6,5.0,78.2,False
+L0394,Self-paced,Core Concepts,74.5,3.0,,True
+L0394,Self-paced,Data Skills,35.8,2.0,85.0,True
+L0394,Self-paced,Applied Practice,26.1,2.0,72.6,True
+L0394,Self-paced,Knowledge Check,20.2,4.0,79.7,False
+L0394,Self-paced,Capstone,,2.0,76.6,True
+L0395,Instructor-led,Getting Started,,3.0,80.3,True
+L0395,Instructor-led,Core Concepts,21.0,1.0,91.7,True
+L0395,Instructor-led,Data Skills,46.3,5.0,69.8,True
+L0395,Instructor-led,Applied Practice,47.9,3.0,77.9,True
+L0395,Instructor-led,Knowledge Check,59.6,2.0,75.5,True
+L0395,Instructor-led,Capstone,38.3,5.0,77.8,True
+L0396,Self-paced,Getting Started,60.0,1.0,86.5,True
+L0396,Self-paced,Core Concepts,,1.0,68.2,False
+L0396,Self-paced,Data Skills,25.6,5.0,89.7,True
+L0396,Self-paced,Applied Practice,31.6,1.0,70.4,True
+L0396,Self-paced,Knowledge Check,44.3,1.0,85.2,True
+L0396,Self-paced,Capstone,23.7,1.0,71.6,True
+L0397,Self-paced,Getting Started,54.6,1.0,60.7,True
+L0397,Self-paced,Core Concepts,42.2,,58.2,True
+L0397,Self-paced,Data Skills,33.4,1.0,79.3,True
+L0397,Self-paced,Applied Practice,15.6,3.0,68.8,False
+L0397,Self-paced,Knowledge Check,50.9,1.0,63.9,True
+L0397,Self-paced,Capstone,,5.0,70.2,True
+L0398,Self-paced,Getting Started,34.5,2.0,61.9,True
+L0398,Self-paced,Core Concepts,27.5,6.0,60.3,True
+L0398,Self-paced,Data Skills,47.4,1.0,62.8,True
+L0398,Self-paced,Applied Practice,35.1,1.0,65.3,False
+L0398,Self-paced,Knowledge Check,52.8,3.0,72.9,True
+L0398,Self-paced,Capstone,32.7,4.0,64.1,True
+L0399,Returning learners,Getting Started,26.3,1.0,61.1,True
+L0399,Returning learners,Core Concepts,27.2,1.0,71.5,True
+L0399,Returning learners,Data Skills,27.3,4.0,65.6,True
+L0399,Returning learners,Applied Practice,36.6,2.0,70.5,True
+L0399,Returning learners,Knowledge Check,16.0,1.0,81.3,True
+L0399,Returning learners,Capstone,28.2,2.0,80.1,True
+L0400,Instructor-led,Getting Started,37.4,3.0,,True
+L0400,Instructor-led,Core Concepts,48.1,2.0,60.6,True
+L0400,Instructor-led,Data Skills,12.7,1.0,77.1,True
+L0400,Instructor-led,Applied Practice,13.7,3.0,49.8,True
+L0400,Instructor-led,Knowledge Check,37.3,3.0,55.5,False
+L0400,Instructor-led,Capstone,48.0,2.0,49.6,True
+L0401,Self-paced,Getting Started,19.9,1.0,60.4,True
+L0401,Self-paced,Core Concepts,17.9,2.0,54.8,True
+L0401,Self-paced,Data Skills,28.6,2.0,51.1,True
+L0401,Self-paced,Applied Practice,51.5,2.0,76.3,True
+L0401,Self-paced,Knowledge Check,35.8,4.0,63.4,False
+L0401,Self-paced,Capstone,92.6,1.0,64.9,True
+L0402,Self-paced,Getting Started,20.0,1.0,67.8,False
+L0402,Self-paced,Core Concepts,40.4,1.0,64.8,True
+L0402,Self-paced,Data Skills,,1.0,41.2,False
+L0402,Self-paced,Applied Practice,25.8,2.0,74.8,True
+L0402,Self-paced,Knowledge Check,30.8,3.0,63.2,True
+L0402,Self-paced,Capstone,25.7,1.0,53.5,True
+L0403,Self-paced,Getting Started,36.9,1.0,,True
+L0403,Self-paced,Core Concepts,34.1,2.0,70.8,False
+L0403,Self-paced,Data Skills,,2.0,71.2,True
+L0403,Self-paced,Applied Practice,33.0,4.0,74.6,False
+L0403,Self-paced,Knowledge Check,41.9,4.0,67.5,False
+L0403,Self-paced,Capstone,49.3,2.0,63.8,False
+L0404,Instructor-led,Getting Started,43.8,3.0,92.5,True
+L0404,Instructor-led,Core Concepts,36.7,1.0,67.5,True
+L0404,Instructor-led,Data Skills,28.5,1.0,66.1,True
+L0404,Instructor-led,Applied Practice,42.6,1.0,62.9,True
+L0404,Instructor-led,Knowledge Check,31.5,1.0,73.2,True
+L0404,Instructor-led,Capstone,,2.0,,False
+L0405,Returning learners,Getting Started,47.2,2.0,83.2,True
+L0405,Returning learners,Core Concepts,49.6,4.0,90.7,True
+L0405,Returning learners,Data Skills,33.9,2.0,86.7,True
+L0405,Returning learners,Applied Practice,9.8,2.0,79.0,True
+L0405,Returning learners,Knowledge Check,71.4,3.0,92.1,True
+L0405,Returning learners,Capstone,25.6,7.0,73.5,True
+L0406,Instructor-led,Getting Started,34.4,5.0,61.8,True
+L0406,Instructor-led,Core Concepts,57.9,2.0,85.8,True
+L0406,Instructor-led,Data Skills,36.1,,65.7,True
+L0406,Instructor-led,Applied Practice,20.7,1.0,,True
+L0406,Instructor-led,Knowledge Check,36.8,1.0,,True
+L0406,Instructor-led,Capstone,30.3,3.0,51.9,True
+L0407,Instructor-led,Getting Started,25.2,3.0,89.2,True
+L0407,Instructor-led,Core Concepts,20.5,2.0,71.7,True
+L0407,Instructor-led,Data Skills,39.7,1.0,79.0,True
+L0407,Instructor-led,Applied Practice,34.0,3.0,85.7,True
+L0407,Instructor-led,Knowledge Check,38.7,1.0,86.6,True
+L0407,Instructor-led,Capstone,43.3,1.0,73.1,True
+L0408,Self-paced,Getting Started,,2.0,78.1,True
+L0408,Self-paced,Core Concepts,24.2,4.0,88.5,True
+L0408,Self-paced,Data Skills,44.9,4.0,74.6,True
+L0408,Self-paced,Applied Practice,44.1,1.0,73.2,True
+L0408,Self-paced,Knowledge Check,43.3,2.0,,True
+L0408,Self-paced,Capstone,26.9,3.0,74.9,False
+L0409,Instructor-led,Getting Started,29.4,1.0,,True
+L0409,Instructor-led,Core Concepts,20.2,1.0,61.6,True
+L0409,Instructor-led,Data Skills,24.8,1.0,65.8,True
+L0409,Instructor-led,Applied Practice,20.6,,50.5,True
+L0409,Instructor-led,Knowledge Check,32.6,2.0,55.5,False
+L0409,Instructor-led,Capstone,17.1,1.0,58.3,True
+L0410,Self-paced,Getting Started,23.7,2.0,50.1,True
+L0410,Self-paced,Core Concepts,33.6,1.0,,True
+L0410,Self-paced,Data Skills,42.4,1.0,64.8,True
+L0410,Self-paced,Applied Practice,45.4,3.0,60.3,True
+L0410,Self-paced,Knowledge Check,29.6,3.0,67.1,True
+L0410,Self-paced,Capstone,15.3,3.0,60.8,True
+L0411,Instructor-led,Getting Started,53.7,4.0,69.4,True
+L0411,Instructor-led,Core Concepts,54.6,2.0,77.2,True
+L0411,Instructor-led,Data Skills,33.3,2.0,76.2,True
+L0411,Instructor-led,Applied Practice,36.6,5.0,74.7,True
+L0411,Instructor-led,Knowledge Check,40.4,2.0,,True
+L0411,Instructor-led,Capstone,40.3,1.0,48.8,True
+L0412,Self-paced,Getting Started,41.6,1.0,83.3,True
+L0412,Self-paced,Core Concepts,22.4,2.0,,True
+L0412,Self-paced,Data Skills,28.5,3.0,66.9,False
+L0412,Self-paced,Applied Practice,26.3,1.0,45.3,True
+L0412,Self-paced,Knowledge Check,67.9,,70.2,False
+L0412,Self-paced,Capstone,36.9,1.0,66.5,True
+L0413,Instructor-led,Getting Started,15.9,5.0,78.3,True
+L0413,Instructor-led,Core Concepts,31.2,3.0,95.4,True
+L0413,Instructor-led,Data Skills,22.9,1.0,77.1,True
+L0413,Instructor-led,Applied Practice,30.1,2.0,92.8,True
+L0413,Instructor-led,Knowledge Check,29.0,2.0,72.6,True
+L0413,Instructor-led,Capstone,34.2,6.0,90.8,True
+L0414,Self-paced,Getting Started,32.8,2.0,76.9,True
+L0414,Self-paced,Core Concepts,54.6,1.0,,True
+L0414,Self-paced,Data Skills,18.9,1.0,67.3,True
+L0414,Self-paced,Applied Practice,19.0,3.0,73.2,True
+L0414,Self-paced,Knowledge Check,25.8,2.0,49.4,False
+L0414,Self-paced,Capstone,41.8,7.0,63.1,False
+L0415,Self-paced,Getting Started,38.2,5.0,70.2,True
+L0415,Self-paced,Core Concepts,86.8,6.0,88.9,False
+L0415,Self-paced,Data Skills,29.6,2.0,84.5,False
+L0415,Self-paced,Applied Practice,33.9,5.0,84.6,True
+L0415,Self-paced,Knowledge Check,24.8,6.0,86.2,False
+L0415,Self-paced,Capstone,28.2,1.0,63.1,True
+L0416,Self-paced,Getting Started,25.7,4.0,91.7,True
+L0416,Self-paced,Core Concepts,33.6,3.0,52.9,True
+L0416,Self-paced,Data Skills,31.8,2.0,,True
+L0416,Self-paced,Applied Practice,61.8,2.0,65.2,True
+L0416,Self-paced,Knowledge Check,35.9,2.0,76.1,True
+L0416,Self-paced,Capstone,55.8,2.0,75.0,True
+L0417,Self-paced,Getting Started,23.0,1.0,86.4,True
+L0417,Self-paced,Core Concepts,21.8,3.0,78.6,True
+L0417,Self-paced,Data Skills,28.0,3.0,56.6,True
+L0417,Self-paced,Applied Practice,49.9,1.0,65.4,True
+L0417,Self-paced,Knowledge Check,23.1,1.0,73.5,False
+L0417,Self-paced,Capstone,111.7,2.0,74.0,True
+L0418,Self-paced,Getting Started,40.1,1.0,78.8,True
+L0418,Self-paced,Core Concepts,17.0,1.0,76.4,True
+L0418,Self-paced,Data Skills,35.3,1.0,68.6,True
+L0418,Self-paced,Applied Practice,36.1,1.0,75.2,True
+L0418,Self-paced,Knowledge Check,,4.0,59.8,False
+L0418,Self-paced,Capstone,76.0,1.0,76.8,True
+L0419,Instructor-led,Getting Started,20.9,1.0,70.4,False
+L0419,Instructor-led,Core Concepts,16.8,2.0,53.9,True
+L0419,Instructor-led,Data Skills,28.6,3.0,66.6,True
+L0419,Instructor-led,Applied Practice,30.1,4.0,71.2,True
+L0419,Instructor-led,Knowledge Check,42.6,3.0,79.8,True
+L0419,Instructor-led,Capstone,,3.0,76.6,False
+L0420,Instructor-led,Getting Started,34.4,1.0,66.9,True
+L0420,Instructor-led,Core Concepts,25.0,1.0,80.8,True
+L0420,Instructor-led,Data Skills,36.6,1.0,82.8,True
+L0420,Instructor-led,Applied Practice,27.7,2.0,77.3,True
+L0420,Instructor-led,Knowledge Check,18.0,1.0,47.9,False
+L0420,Instructor-led,Capstone,26.0,4.0,86.8,True
